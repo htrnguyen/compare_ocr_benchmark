@@ -9,8 +9,8 @@ from torch.utils.data import Dataset
 from torchvision import transforms
 
 # Load dictionary
-dict_path = os.path.join("vietnamese", "vn_dictionary.txt")
-# dict_path = "/kaggle/working/compare_ocr_benchmark/CNN_TR_OCR_Resnet/vietnamese/vn_dictionary.txt"
+# dict_path = os.path.join("vietnamese", "vn_dictionary.txt")
+dict_path = "/kaggle/working/compare_ocr_benchmark/CNN_TR_OCR_Resnet/vietnamese/vn_dictionary.txt"
 with open(dict_path, encoding="utf-8") as f:
     lines = [l.strip() for l in f if l.strip()]
 vocab = sorted(set("".join(lines))) + ["<PAD>", "<SOS>", "<EOS>"]
