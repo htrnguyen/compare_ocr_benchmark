@@ -24,7 +24,6 @@ weights/
 saved_models/
 
 # Results and outputs
-results/
 outputs/
 predictions/
 logs/
