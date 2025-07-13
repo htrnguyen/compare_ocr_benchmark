@@ -67,7 +67,7 @@ filename,label,ground_truth,predicted_text,cer,wer,lev,acc,time
 025_rong-bien_F_crop_1.jpg,name,Rong Biển,Z~ba,0.8888888888888888,1.0,8,0,0.052
 025_rong-bien_F_crop_2.jpg,weight,20 g,209,0.5,1.0,2,0,0.048
 026_vinamilk-sua-dinh-duong-socola_F_crop_0.jpg,brand,Vinamilk,uinamikk,0.25,1.0,2,0,0.044
-026_vinamilk-sua-dinh-duong-socola_F_crop_1.jpg,name,SỮA DINH DƯỠNG ,VfI NA) SĨA DINHDUÕNG,0.7857142857142857,1.3333333333333333,11,0,0.07
+026_vinamilk-sua-dinh-duong-socola_F_crop_1.jpg,name,SỮA DINH DƯỠNG,VfI NA) SĨA DINHDUÕNG,0.7857142857142857,1.3333333333333333,11,0,0.07
 026_vinamilk-sua-dinh-duong-socola_F_crop_2.jpg,weight,220 ml,220ml,0.16666666666666666,1.0,1,0,0.046
 027_vinamilk-sua-dinh-duong-socola_B_crop_0.jpg,date,250425,8,1.0,1.0,6,0,0.043
 027_vinamilk-sua-dinh-duong-socola_B_crop_1.jpg,date,06 tháng trước HSD.,06ta nửkSI,0.7368421052631579,1.0,14,0,0.057
@@ -163,7 +163,7 @@ filename,label,ground_truth,predicted_text,cer,wer,lev,acc,time
 063_tuong-ot-sieu-cay_F_crop_1.jpg,name,TƯƠNG ỚT SIÊU CAY,TUONG ItIIC SIÊU CAY,0.35294117647058826,0.5,6,0,0.055
 063_tuong-ot-sieu-cay_F_crop_2.jpg,weight,530 g,1530 0,0.4,1.0,2,0,0.052
 064_tuong-ot-dellycook_F_crop_0.jpg,brand,Dellycook,Dellycoso],0.2222222222222222,1.0,2,0,0.043
-064_tuong-ot-dellycook_F_crop_1.jpg,name,Tương Ớt CHILI SAUCE ,ChILI (Tio6 SAUCE Ot Tây Nín,1.1,1.5,22,0,0.083
+064_tuong-ot-dellycook_F_crop_1.jpg,name,Tương Ớt CHILI SAUCE,ChILI (Tio6 SAUCE Ot Tây Nín,1.1,1.5,22,0,0.083
 065_tuong-ot-dellycook_B_crop_0.jpg,weight,270 g,2709,0.4,1.0,2,0,0.043
 066_tuong-ot-dellycook_B_crop_0.jpg,date,20.03.2024,o  M,1.0,2.0,10,0,0.078
 066_tuong-ot-dellycook_B_crop_1.jpg,date,20.03.2025,1 a1 P,1.0,3.0,10,0,0.081
@@ -400,7 +400,7 @@ filename,label,ground_truth,predicted_text,cer,wer,lev,acc,time
 135_gia-vi-canh-chua_B_crop_0.jpg,date,140624,,1.0,1.0,6,0,0.036
 135_gia-vi-canh-chua_B_crop_1.jpg,date,140625,,1.0,1.0,6,0,0.033
 135_gia-vi-canh-chua_B_crop_2.jpg,weight,30 g,30g,0.25,1.0,1,0,0.045
-136_gia-vi-ca-kho_F_crop_0.jpg,brand,Knorr SINCE 1838 ,SInce 1838 Rnov,0.6875,0.6666666666666666,11,0,0.055
+136_gia-vi-ca-kho_F_crop_0.jpg,brand,Knorr SINCE 1838,SInce 1838 Rnov,0.6875,0.6666666666666666,11,0,0.055
 136_gia-vi-ca-kho_F_crop_1.jpg,name,Gia vị Hoàn Chỉnh CÁ KHO,#oànt Chinh JSiayi CÁ KHO,0.6666666666666666,0.6666666666666666,16,0,0.074
 137_gia-vi-ca-kho_B_crop_0.jpg,date,191124,1i9 1 3,0.6666666666666666,3.0,4,0,0.073
 137_gia-vi-ca-kho_B_crop_1.jpg,date,190925,,1.0,1.0,6,0,0.033
@@ -864,7 +864,7 @@ filename,label,ground_truth,predicted_text,cer,wer,lev,acc,time
 284_rong-bien-gion-tron-gia-vi_F_crop_3.jpg,date,07.12.2024,0? 12.2024,0.2,2.0,2,0,0.215
 284_rong-bien-gion-tron-gia-vi_F_crop_4.jpg,date,06.12.2025,06 . 12.2025,0.2,3.0,2,0,0.072
 285_rong-bien-gion-tron-gia-vi_F_crop_0.jpg,brand,ofood,Bfosd,0.4,1.0,2,0,0.062
-285_rong-bien-gion-tron-gia-vi_F_crop_1.jpg,name,Rong biển giòn trộn gia vị ,[Rong trộngi biển vi giòr ],0.5769230769230769,0.8333333333333334,15,0,0.078
+285_rong-bien-gion-tron-gia-vi_F_crop_1.jpg,name,Rong biển giòn trộn gia vị,[Rong trộngi biển vi giòr ],0.5769230769230769,0.8333333333333334,15,0,0.078
 285_rong-bien-gion-tron-gia-vi_F_crop_2.jpg,weight,40 g,40 g,0.0,0.0,0,1,0.043
 285_rong-bien-gion-tron-gia-vi_F_crop_3.jpg,date,07.12.2024,07.12. 2024,0.1,2.0,1,0,0.046
 285_rong-bien-gion-tron-gia-vi_F_crop_4.jpg,date,06.12.2025,06 . 12,0.6,3.0,6,0,0.044
