@@ -1,21 +1,24 @@
-import os
 import glob
+import os
+
+import cv2
+import numpy as np
 import torch
+from PIL import Image
 from torch.utils.data import Dataset
 from torchvision import transforms
-from PIL import Image
-import numpy as np
-import cv2
 
 # Load dictionary
-dict_path = os.path.join("vietnamese", "vn_dictionary.txt")  
+dict_path = os.path.join("vietnamese", "vn_dictionary.txt")
+# dict_path = "/content/compare_ocr_benchmark/CNN_TR_OCR_Resnet/vietnamese/vn_dictionary.txt"
 with open(dict_path, encoding="utf-8") as f:
     lines = [l.strip() for l in f if l.strip()]
-vocab = sorted(set("".join(lines))) + ['<PAD>', '<SOS>', '<EOS>']
+vocab = sorted(set("".join(lines))) + ["<PAD>", "<SOS>", "<EOS>"]
 char2idx = {ch: i for i, ch in enumerate(vocab)}
 idx2char = {i: ch for ch, i in char2idx.items()}
 
 MAX_LEN = 36
+
 
 def polygon_to_box(polygon):
     x_coords = polygon[::2]
@@ -24,11 +27,13 @@ def polygon_to_box(polygon):
     x_max, y_max = max(x_coords), max(y_coords)
     return x_min, y_min, x_max, y_max
 
+
 def encode_text(text):
-    tokens = ['<SOS>'] + list(text) + ['<EOS>']
-    indices = [char2idx.get(c, char2idx['<PAD>']) for c in tokens]
-    indices += [char2idx['<PAD>']] * (MAX_LEN - len(indices))
+    tokens = ["<SOS>"] + list(text) + ["<EOS>"]
+    indices = [char2idx.get(c, char2idx["<PAD>"]) for c in tokens]
+    indices += [char2idx["<PAD>"]] * (MAX_LEN - len(indices))
     return torch.tensor(indices[:MAX_LEN])
+
 
 class OCRDataset(Dataset):
     def __init__(self, image_dir, label_dir, transform=None):
@@ -38,17 +43,19 @@ class OCRDataset(Dataset):
         self.samples = []
 
         for label_file in sorted(glob.glob(f"{label_dir}/gt_*.txt")):
-            img_id = os.path.splitext(os.path.basename(label_file))[0].split('_')[-1]
+            img_id = os.path.splitext(os.path.basename(label_file))[0].split("_")[-1]
             img_path = os.path.join(image_dir, f"im{int(img_id):04d}.jpg")
             if not os.path.exists(img_path):
                 continue
             with open(label_file, encoding="utf-8") as f:
                 for line in f:
-                    parts = line.strip().split(',')
-                    if len(parts) < 9: continue
+                    parts = line.strip().split(",")
+                    if len(parts) < 9:
+                        continue
                     polygon = list(map(int, parts[:8]))
                     text = parts[8]
-                    if text == "###" or not text.strip(): continue
+                    if text == "###" or not text.strip():
+                        continue
                     box = polygon_to_box(polygon)
                     self.samples.append((img_path, box, text))
 
