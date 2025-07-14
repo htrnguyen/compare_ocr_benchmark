@@ -1,0 +1,1001 @@
+filename,label,ground_truth,predicted_text,cer,wer,lev,acc,time
+001_heo-cao-boi_F_crop_4.jpg,weight,200 g,200 g,0.0,0.0,0,1,1.209
+001_heo-cao-boi_F_crop_5.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.146
+002_mi-ly-modern_F_crop_1.jpg,name,MÌ LY MODERN,MÌ LY INSDERN,0.25,0.3333333333333333,3,0,0.3
+003_banh-crepe-sua-tuoi_B_crop_0.jpg,brand,SweetHome Bakery,Suasitom Bakoy,0.5,1.0,8,0,0.324
+003_banh-crepe-sua-tuoi_B_crop_3.jpg,date,05/11/2024,05/11/2024,0.0,0.0,0,1,0.215
+003_banh-crepe-sua-tuoi_B_crop_4.jpg,date,24h 11/11/2024,20121112024 24h,0.6666666666666666,1.0,8,0,0.258
+003_banh-crepe-sua-tuoi_F_crop_0.jpg,brand,SweetHome Bakery,Suegitime Badoy,0.5,1.0,8,0,0.294
+003_che-buoi_F_crop_2.jpg,weight,140 g,140 g,0.0,0.0,0,1,0.155
+003_che-buoi_F_crop_3.jpg,date,06/11/2024,06/11/2024,0.0,0.0,0,1,0.181
+003_che-buoi_F_crop_4.jpg,date,10/11/2024,10/11/2024,0.0,0.0,0,1,0.211
+004_cal-cheese_F_crop_0.jpg,brand,MAYORA,MAYORA,0.0,0.0,0,1,0.156
+004_cal-cheese_F_crop_1.jpg,weight,48g,48a 469,1.6666666666666667,2.0,5,0,0.185
+004_cal-cheese_F_crop_2.jpg,weight,48g,48 g,0.3333333333333333,2.0,1,0,0.165
+004_cal-cheese_F_crop_3.jpg,name,Thực Phẩm Bổ Sung Bánh Xốp Kem Phô Mai Cal Cheese,Thực Phám Bồ Sung Bánh Xóp Kem Phô Mai Cai Chesse,0.10204081632653061,0.45454545454545453,5,0,0.807
+007_snack-nhan-dau-phong_F_crop_0.jpg,name,SNACK NHÂN ĐẬU PHỘNG,SNACK WARPORAN PHỘNG,0.4,0.5,8,0,0.376
+009_sting-vang_B_crop_0.jpg,name,NƯỚC TĂNG LỰC STING,,1.0,1.0,19,0,0.057
+009_sting-vang_B_crop_1.jpg,weight,320 ml,THU 20,0.8333333333333334,1.0,5,0,0.166
+011_sting_B_crop_0.jpg,name,NƯỚC TĂNG LỰC STING HƯƠNG DÂU TÂY ĐỎ,NƯỚC TANG LỰC STING HƯƠNG DÂU TÂY ĐỎ,0.027777777777777776,0.125,1,0,0.615
+011_sting_B_crop_1.jpg,weight,320 ml,320 ml,0.0,0.0,0,1,0.162
+012_banh-hoa-cuc_F_crop_0.jpg,brand,Fe'sta,Festo,0.2,1.0,1,0,0.134
+012_banh-hoa-cuc_F_crop_1.jpg,name,Hoa cúc ngàn lớp,chúc Hoá Mgàn LỚp,0.4375,0.75,7,0,0.376
+013_snack-vi-suon-nuong_F_crop_0.jpg,brand,Lay's,LUYE,0.5,1.0,2,0,0.149
+014_mentos-keo-ngam-khong-duong_F_crop_1.jpg,brand,mentos,mentos,0.0,0.0,0,1,0.14
+015_mentos-keo-ngam-khong-duong_B_crop_0.jpg,name,KẸO NGẬM KHÔNG ĐƯỜNG,KEO NGẬM KHÔNG ĐƯỜNG,0.05,0.25,1,0,0.335
+015_mentos-keo-ngam-khong-duong_B_crop_2.jpg,weight,35 g,35 g,0.0,0.0,0,1,0.116
+018_himalaya-salt_F_crop_1.jpg,brand,HIMALAYA Sports,HIMALAYAY Spors,0.13333333333333333,1.0,2,0,0.258
+019_himalaya-salt_B_crop_3.jpg,date,10/09/2024,2004,0.625,1.0,5,0,0.123
+019_himalaya-salt_B_crop_4.jpg,date,09/09/2026,TRUNG 20,0.875,2.0,7,0,0.183
+022_marshmallows_B_crop_0.jpg,date,02/07/2024,02/07/2024,0.0,0.0,0,1,0.164
+022_marshmallows_B_crop_1.jpg,date,01/10/2025,01/10/2025,0.0,0.0,0,1,0.159
+023_lap-xuong_F_crop_0.jpg,name,LẠP XƯỞNG,LẠP XƯỞNG,0.0,0.0,0,1,0.165
+023_lap-xuong_F_crop_1.jpg,brand,Greenfeed,Chigleed,0.6666666666666666,1.0,6,0,0.139
+025_rong-bien_F_crop_1.jpg,name,Rong Biển,Bản Rong,0.7777777777777778,1.0,7,0,0.164
+025_rong-bien_F_crop_2.jpg,weight,20 g,20 g,0.0,0.0,0,1,0.11
+026_vinamilk-sua-dinh-duong-socola_F_crop_1.jpg,name,SỮA DINH DƯỠNG ,SỮA DINH DƯỠNG,0.0,0.0,0,1,0.278
+028_dau-an-happi-koki_F_crop_0.jpg,brand,happi Koki,happi Koki,0.0,0.0,0,1,0.187
+028_dau-an-happi-koki_F_crop_2.jpg,weight,1 lít,1 lít,0.0,0.0,0,1,0.117
+031_dau-an-cai-lan_F_crop_1.jpg,name,DẦU THỰC VẬT HẢO HẠNG,DẦU THỰC VẬT HẢO HẠNG,0.0,0.0,0,1,0.336
+032_dau-an-cai-lan_B_crop_2.jpg,date,24 tháng trước hạn sử dụng (HSD).,24 tháng trước hạn SỬ dụng (HSD).,0.0,0.0,0,1,0.534
+033_dau-an-bep-hong_F_crop_0.jpg,brand,Bếp Hồng,Bớy Hồng,0.25,0.5,2,0,0.193
+033_dau-an-bep-hong_F_crop_1.jpg,name,Dầu thực vật tinh luyện,Luyện Dầu HUỰC vật Thình,0.6956521739130435,0.8,16,0,0.364
+033_dau-an-bep-hong_F_crop_2.jpg,weight,1 Lít,1L1,0.6,1.0,3,0,0.078
+034_dau-an-orchid_F_crop_0.jpg,brand,orchid,bichida,0.5,1.0,3,0,0.139
+036_dau-an-good-meall_F_crop_0.jpg,brand,Good Meall,Good Meil,0.2,0.5,2,0,0.167
+037_dau-dau-nanh-simply_F_crop_0.jpg,brand,Simply,Simply,0.0,0.0,0,1,0.115
+038_dau-dau-nanh-simply_B_crop_0.jpg,weight,1 lít,1 lít,0.0,0.0,0,1,0.114
+039_dau-dau-nanh-truong-an_F_crop_0.jpg,date,101224,100124,0.3333333333333333,1.0,2,0,0.115
+039_dau-dau-nanh-truong-an_F_crop_1.jpg,date,101226,10124,0.3333333333333333,1.0,2,0,0.104
+039_dau-dau-nanh-truong-an_F_crop_2.jpg,brand,Tường An,Trường An,0.125,0.5,1,0,0.168
+039_dau-dau-nanh-truong-an_F_crop_3.jpg,name,DẦU ĐẬU NÀNH,DẦU ĐẬU NÀNH,0.0,0.0,0,1,0.267
+040_dau-dau-nanh-truong-an_B_crop_2.jpg,weight,1 lít,1 lít,0.0,0.0,0,1,0.118
+041_bo-dau-phong_F_crop_1.jpg,name,BƠ ĐẬU PHỘNG,BƠ ĐẬU PHỘNG,0.0,0.0,0,1,0.207
+043_bo-thuc-vat_F_crop_1.jpg,name,BƠ THỰC VẬT,BƠ THỰC VẬT,0.0,0.0,0,1,0.205
+045_nui-trung_F_crop_1.jpg,brand,erici,erici,0.0,0.0,0,1,0.12
+046_nui-trung_B_crop_2.jpg,weight,400 g,400 g,0.0,0.0,0,1,0.114
+047_nui-bon-mua_F_crop_1.jpg,weight,200 g,200 Q,0.2,0.5,1,0,0.118
+050_nui-ong-dai_F_crop_0.jpg,brand,Bà Bảy,Bảy Bả,0.5,1.0,3,0,0.145
+050_nui-ong-dai_F_crop_1.jpg,name,Nui ống dài,Nui Ống dài,0.0,0.0,0,1,0.242
+051_mi-trung-cao-cap_F_crop_0.jpg,name,Mì Trứng Cao Cấp,Mừ Từng Cao Cấp,0.1875,0.5,3,0,0.272
+051_nui-gao-lotus_F_crop_0.jpg,brand,Lotus,LALTH Lotus,1.2,1.0,6,0,0.257
+052_nui-chu-c_F_crop_1.jpg,name,Nui Chữ C,Nui Chở C,0.1111111111111111,0.3333333333333333,1,0,0.203
+054_tuong-ot-knorr_B_crop_3.jpg,name,TƯƠNG ỚT TRÒN 5 VỊ!,TRÒN TƯƠNG 5 ỚT VỊ,0.6842105263157895,1.0,13,0,0.297
+054_tuong-ot-knorr_B_crop_4.jpg,weight,220g,220 g,0.25,2.0,1,0,0.114
+055_tuong-ca-nam-duong_F_crop_0.jpg,brand,Namduong,Lài,1.0,1.0,8,0,0.085
+055_tuong-ca-nam-duong_F_crop_1.jpg,date,081125,0351125,0.3333333333333333,1.0,2,0,0.126
+055_tuong-ca-nam-duong_F_crop_2.jpg,brand,NamDương,Nampurong,0.5,1.0,4,0,0.152
+057_tuong-ot-xanh_F_crop_1.jpg,name,Ớt Xanh Tương,Tương Ớt Xanh,0.7692307692307693,0.6666666666666666,10,0,0.224
+058_tuong-ot-xanh_B_crop_0.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.187
+058_tuong-ot-xanh_B_crop_1.jpg,weight,220 g,220 g,0.0,0.0,0,1,0.148
+060_tuong-ot-ong-cha-va_B_crop_0.jpg,weight,280 g,280 g,0.0,0.0,0,1,0.112
+060_tuong-ot-ong-cha-va_B_crop_1.jpg,date,12 tháng trước HSD,0944.0202020,1.0,1.0,18,0,0.209
+061_tuong-ot-sieu-cay_F_crop_2.jpg,weight,530g,550 g,0.5,2.0,2,0,0.111
+062_tuong-ot-sieu-cay_B_crop_0.jpg,date,03/12/24,05/12/24,0.16666666666666666,1.0,1,0,0.142
+062_tuong-ot-sieu-cay_B_crop_1.jpg,date,03/12/25,05/12/25,0.16666666666666666,1.0,1,0,0.135
+062_tuong-ot-sieu-cay_B_crop_2.jpg,brand,TAI LOC FOODS,FOODS LAI LOC,0.8461538461538461,1.0,11,0,0.218
+063_tuong-ot-sieu-cay_F_crop_0.jpg,brand,TAILOCFOODS,TAI LOC FOODS,0.18181818181818182,3.0,2,0,0.223
+063_tuong-ot-sieu-cay_F_crop_2.jpg,weight,530 g,550 g,0.2,0.5,1,0,0.114
+064_tuong-ot-dellycook_F_crop_0.jpg,brand,Dellycook,Delygan,0.5555555555555556,1.0,5,0,0.131
+064_tuong-ot-dellycook_F_crop_1.jpg,name,Tương Ớt CHILI SAUCE ,CHI SAUCE Tương Ớt Tây Niy,1.0,1.0,20,0,0.414
+068_tuong-den-pho_B_crop_0.jpg,brand,Cholimex FOODS,Cholimex FOOOS,0.07142857142857142,0.5,1,0,0.22
+068_tuong-den-pho_B_crop_1.jpg,name,Tương Đen Phở,Tương Phở Đen,0.46153846153846156,0.6666666666666666,6,0,0.218
+068_tuong-den-pho_B_crop_2.jpg,date,19 09 24,19.08.24,0.375,1.0,3,0,0.141
+068_tuong-den-pho_B_crop_3.jpg,date,19 09 25,19 09 25,0.0,0.0,0,1,0.154
+068_tuong-den-pho_B_crop_5.jpg,brand,Cholimex,Cholingy,0.375,1.0,3,0,0.137
+069_tuong-ot-chua-ngot_F_crop_2.jpg,brand,Cholimex FOODS,Cho.Chmex FOODS,0.21428571428571427,0.5,3,0,0.229
+071_tuong-ot-chin-su_F_crop_0.jpg,name,Tương ớt,Tương ớt,0.0,0.0,0,1,0.147
+073_xot-uop-thit-nuong_F_crop_0.jpg,brand,Cholimex FOODS,Chobimex FOODS,0.07142857142857142,0.5,1,0,0.217
+073_xot-uop-thit-nuong_F_crop_1.jpg,name,XỐT ƯỚP THỊT NƯỚNG,XỐT ƯỚP THỊT NƯỚNG,0.0,0.0,0,1,0.318
+073_xot-uop-thit-nuong_F_crop_2.jpg,weight,70 g,70 g,0.0,0.0,0,1,0.108
+074_xot-uop-thit-nuong_B_crop_2.jpg,date,12/12/24,12/12/24,0.0,0.0,0,1,0.159
+074_xot-uop-thit-nuong_B_crop_3.jpg,date,12/12/25,12/12/25,0.0,0.0,0,1,0.162
+075_xot-ga-chien-nuoc-mam_F_crop_1.jpg,weight,70 g,10 g T,0.75,1.0,3,0,0.147
+075_xot-ga-chien-nuoc-mam_F_crop_2.jpg,name,GÀ CHIÊN NƯỚC MẮM,GÀ CHIÊN NƯỚC MẮM,0.0,0.0,0,1,0.318
+077_xot-ga-chien-nuoc-mam_F_crop_0.jpg,brand,Barona,Barun,0.3333333333333333,1.0,2,0,0.131
+077_xot-ga-chien-nuoc-mam_F_crop_1.jpg,name,- Xốt Gia Vị Hoàn Chỉnh - GÀ CHIÊN NƯỚC MẮM,- Xốt Gia Vị Hoàn Chỉnh GÀ CHIÊN NƯỚC MẮM,0.025,0.0,1,0,0.635
+078_xot-ga-chien-nuoc-mam_B_crop_0.jpg,name,Xốt Gia Vị Hoàn Chỉnh GÀ CHIÊN NƯỚC MẮM,CÀ Xốt CHIÊN Gia Vị NƯỚC Hoàn Chỉnh MẮM,0.6923076923076923,0.6666666666666666,27,0,0.63
+078_xot-ga-chien-nuoc-mam_B_crop_2.jpg,date,17.10.24,17.10.24,0.0,0.0,0,1,0.138
+078_xot-ga-chien-nuoc-mam_B_crop_3.jpg,date,17.10.25,17.10.25,0.0,0.0,0,1,0.144
+081_sot-spaghetti_F_crop_2.jpg,brand,ofood,ofood,0.0,0.0,0,1,0.117
+081_sot-spaghetti_F_crop_3.jpg,weight,120 g,120 g,0.0,0.0,0,1,0.138
+082_hu-tieu-bo-kho_F_crop_1.jpg,name,Hủ Tiếu Bò Kho,HỎ Tiếu Bò Kho,0.07142857142857142,0.25,1,0,0.267
+084_chao-thit-bam_F_crop_1.jpg,name,Cháo Thịt Bằm,Cháo Thịt Bảm,0.07692307692307693,0.3333333333333333,1,0,0.236
+084_chao-thit-bam_F_crop_2.jpg,weight,70,70,0.0,0.0,0,1,0.071
+085_bot-suong-sao-den_F_crop_1.jpg,brand,Vinathạch,Vinaind,0.5555555555555556,1.0,5,0,0.132
+086_snack-tom-vi-muoi-ot-xanh_F_crop_1.jpg,name,Snack Tôm Vị Muối Ớt Xanh,Snack Tôm VỊ Muối Ới Xanh,0.04,0.16666666666666666,1,0,0.414
+087_tao-ninh-thuan_F_crop_0.jpg,name,TAO NINH THUAN,TAO NINH THUAN,0.0,0.0,0,1,0.267
+087_tao-ninh-thuan_F_crop_1.jpg,weight,0.792 kg,0 kg,0.5,0.5,4,0,0.111
+087_tao-ninh-thuan_F_crop_2.jpg,date,6.1.2025,6.1.2025,0.0,0.0,0,1,0.146
+088_tao-gala-mini-phap_F_crop_0.jpg,name,TAO GALA MINI PHAP,TAO GALA MINI PHAP,0.0,0.0,0,1,0.293
+088_tao-gala-mini-phap_F_crop_1.jpg,weight,0.476kg,0 kg,0.5714285714285714,2.0,4,0,0.114
+089_sapoche_F_crop_1.jpg,date,06-01-2025,06-01-12025,0.125,1.0,1,0,0.179
+089_sapoche_F_crop_2.jpg,date,05 NGÀY KỂ TỪ NGÀY SẢN XUẤT,06 NGÀY HỂ TỪ NGÀY SẢN XUẤT,0.07407407407407407,0.2857142857142857,2,0,0.423
+089_sapoche_F_crop_3.jpg,weight,500g,500 g,0.25,2.0,1,0,0.118
+090_man-an-phuoc_F_crop_1.jpg,weight,0.554 kg,0 kg,0.5,0.5,4,0,0.104
+090_man-an-phuoc_F_crop_2.jpg,date,7.1.2025,24.2025,0.375,1.0,3,0,0.131
+091_oi-nu-hoang_F_crop_2.jpg,date,7.1.2025,74.2025,0.25,1.0,2,0,0.13
+092_trung-ga-tuoi_F_crop_0.jpg,weight,550g,550 g,0.25,2.0,1,0,0.113
+093_trung-ga-tuoi_F_crop_0.jpg,brand,HAPPY EGG,HAPPY BG,0.2222222222222222,0.5,2,0,0.158
+093_trung-ga-tuoi_F_crop_1.jpg,name,TRỨNG GÀ TƯƠI,TRỨNG GÀ TƯƠI,0.0,0.0,0,1,0.224
+093_trung-ga-tuoi_F_crop_3.jpg,weight,366g,366 g,0.25,2.0,1,0,0.113
+094_trung-ga-tuoi_B_crop_1.jpg,name,TRỨNG GÀ TƯƠI,TRỨNG GÀ TƯƠI,0.0,0.0,0,1,0.224
+096_trung-vit-bac-thao_F_crop_3.jpg,weight,240g,240 C,0.5,2.0,2,0,0.112
+097_trung-cut_F_crop_1.jpg,brand,PHƯƠNG NAM FARM,TRƯƠNG NAM Thuy,0.4,0.6666666666666666,6,0,0.246
+097_trung-cut_F_crop_3.jpg,weight,300g,300 g,0.25,2.0,1,0,0.114
+098_trung-vit-tuoi_F_crop_0.jpg,brand,PHƯƠNG NAM FARM,TRƯƠNG NAM FIFOR,0.4,0.6666666666666666,6,0,0.304
+098_trung-vit-tuoi_F_crop_2.jpg,weight,360g,360 g,0.25,2.0,1,0,0.121
+099_trung-vit-tuoi_B_crop_0.jpg,name,Trứng Vịt Tươi,Trường vịt TƯƠI,0.14285714285714285,0.3333333333333333,2,0,0.26
+099_trung-vit-tuoi_B_crop_1.jpg,weight,360g,360 g,0.25,2.0,1,0,0.114
+099_trung-vit-tuoi_B_crop_2.jpg,date,12 ngày (kể từ ngày đóng gói),12 ngày kể từ ngày đóng BỐI,0.07407407407407407,0.14285714285714285,2,0,0.42
+099_trung-vit-tuoi_B_crop_3.jpg,date,28-12-2024,28-12-2024,0.0,0.0,0,1,0.162
+100_tao-do-khong-hat_F_crop_0.jpg,name,TÁO ĐỎ KHÔNG HẠT,THO ĐỒ KHÔNG HẠT,0.125,0.5,2,0,0.268
+100_tao-do-khong-hat_F_crop_1.jpg,brand,VIETFRESH,VIETFFESH,0.1111111111111111,1.0,1,0,0.15
+102_dau-phong_F_crop_0.jpg,brand,VIET THIEN,VE THIEN,0.2,0.5,2,0,0.149
+102_dau-phong_F_crop_1.jpg,name,ĐẬU PHỘNG,ĐẬU PHỘNG,0.0,0.0,0,1,0.167
+103_pho-tai_F_crop_3.jpg,weight,50G,50 G,0.3333333333333333,2.0,1,0,0.1
+104_hanh-phi_F_crop_0.jpg,name,HÀNH PHI,HÀNH PHI,0.0,0.0,0,1,0.155
+107_nam-dong-co_F_crop_2.jpg,weight,50G,50 G,0.3333333333333333,2.0,1,0,0.11
+108_hat-sen_F_crop_0.jpg,brand,ĐỨC DŨNG,ĐỨC DŨNG,0.0,0.0,0,1,0.148
+108_hat-sen_F_crop_1.jpg,name,HẠT SEN,HAIT SEN,0.2857142857142857,0.5,2,0,0.155
+108_hat-sen_F_crop_2.jpg,weight,100g,10009,0.5,1.0,2,0,0.106
+110_me-trang_F_crop_0.jpg,brand,ĐỨC DŨNG,ĐÚC DŨNG,0.125,0.5,1,0,0.149
+110_me-trang_F_crop_1.jpg,name,MÈ TRẮNG,MÈ TRẮNG,0.0,0.0,0,1,0.155
+111_dau-xanh-khong-vo_F_crop_1.jpg,brand,TUẤN LINH,TUẤN LINH,0.0,0.0,0,1,0.173
+112_dau-den_F_crop_0.jpg,brand,VIETFRESH,VEIFERSH,0.4444444444444444,1.0,4,0,0.144
+112_dau-den_F_crop_1.jpg,name,Đậu Đen,Độn Đen,0.2857142857142857,0.5,2,0,0.152
+114_toi-phi_F_crop_3.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.113
+117_dau-nanh-say-gion_F_crop_0.jpg,name,Đậu Nành Sấy Giòn,Đậu Nành Sấy Giòn,0.0,0.0,0,1,0.275
+117_dau-nanh-say-gion_F_crop_2.jpg,brand,tili,tHUI,0.5,1.0,2,0,0.102
+118_dau-nanh-say-gion_B_crop_0.jpg,name,Đậu Nành Sấy Giòn,Đậu Nành Sấy Giòn,0.0,0.0,0,1,0.273
+118_dau-nanh-say-gion_B_crop_1.jpg,date,25/11/2024,25/11/2024,0.0,0.0,0,1,0.161
+118_dau-nanh-say-gion_B_crop_2.jpg,date,25/11/2025,25/11/2025,0.0,0.0,0,1,0.172
+118_dau-nanh-say-gion_B_crop_3.jpg,date,12 tháng kể từ NSX.,12 tháng kể từ NSX,0.05263157894736842,0.2,1,0,0.296
+119_xoai-say-deo_F_crop_1.jpg,date,18/11/2024,18/11/2024,0.0,0.0,0,1,0.174
+119_xoai-say-deo_F_crop_2.jpg,date,18/11/2025,18/11/2025,0.0,0.0,0,1,0.173
+119_xoai-say-deo_F_crop_3.jpg,weight,200 g,200 giai,0.6,0.5,3,0,0.19
+119_xoai-say-deo_F_crop_4.jpg,brand,tili,tili,0.0,0.0,0,1,0.097
+121_cha-bong-ga_B_crop_0.jpg,name,Chà Bông Gà,Chà Bông Gà,0.0,0.0,0,1,0.223
+121_cha-bong-ga_B_crop_1.jpg,date,24 12 2024,24 12 2024,0.0,0.0,0,1,0.184
+121_cha-bong-ga_B_crop_2.jpg,date,27 12 2024,27 12 2024,0.0,0.0,0,1,0.183
+121_cha-bong-ga_B_crop_3.jpg,date,24 12 2025,24 12 2025,0.0,0.0,0,1,0.184
+122_nescafe-ca-phe-den-da_F_crop_0.jpg,brand,NESCAFÉ,NESCARE,0.2857142857142857,1.0,2,0,0.157
+122_nescafe-ca-phe-den-da_F_crop_1.jpg,name,CÀ PHÊ ĐEN ĐÁ,CÀ PHÊ ĐEN ĐÁ,0.0,0.0,0,1,0.232
+123_nescafe-ca-phe-den-da_B_crop_0.jpg,weight,240 g,240 g,0.0,0.0,0,1,0.12
+123_nescafe-ca-phe-den-da_B_crop_1.jpg,date,23.06.2025,23.06.2025 28,0.3,1.0,3,0,0.221
+123_nescafe-ca-phe-den-da_B_crop_2.jpg,date,9 tháng trước hạn sử dụng,9 tháng trước hạn SỬ,0.2,0.16666666666666666,5,0,0.322
+124_hat-nem-aji-ngon_F_crop_0.jpg,brand,AJINOMOTO,CANOMOTOO,0.4444444444444444,1.0,4,0,0.151
+125_hat-nem-aji-ngon_F_crop_0.jpg,name,Hạt nêm,Hạt nêm,0.0,0.0,0,1,0.14
+126_hat-nem-aji-ngon_F_crop_0.jpg,brand,AJINOMOTO,AJINOMOTO,0.0,0.0,0,1,0.15
+126_hat-nem-aji-ngon_F_crop_1.jpg,name,Hạt nêm,Hạt nêm,0.0,0.0,0,1,0.137
+126_hat-nem-aji-ngon_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.117
+128_xot-gia-vi-thit-nuong-ngu-vi_B_crop_1.jpg,name,Xốt Gia Vị Hoàn Chỉnh THỊT NƯỚNG NGŨ VỊ,Xốt Gia Vị Hoàn Chỉnh THỊT NƯỚNG NGŨ VỊ,0.0,0.0,0,1,0.621
+130_xot-gia-vi-nuong-bbq_B_crop_2.jpg,date,31.10.24,31.10.24,0.0,0.0,0,1,0.142
+130_xot-gia-vi-nuong-bbq_B_crop_3.jpg,date,30.01.26,30.01.26,0.0,0.0,0,1,0.15
+131_xot-gia-vi-canh-chua_F_crop_2.jpg,weight,80 g,80 g,0.0,0.0,0,1,0.107
+133_gia-vi-ca-kho_F_crop_3.jpg,weight,300g,300 g,0.25,2.0,1,0,0.121
+134_gia-vi-canh-chua_F_crop_0.jpg,brand,Knorr,1838 Knorr,1.0,1.0,5,0,0.182
+134_gia-vi-canh-chua_F_crop_1.jpg,name,Gia vị Hoàn Chính CANH CHUA,Chỉnh Gia vị Hoàn CHUA CANH,0.5185185185185185,0.5,14,0,0.42
+135_gia-vi-canh-chua_B_crop_0.jpg,date,140624,11406.24,0.3333333333333333,1.0,2,0,0.154
+135_gia-vi-canh-chua_B_crop_1.jpg,date,140625,140625,0.0,0.0,0,1,0.128
+135_gia-vi-canh-chua_B_crop_2.jpg,weight,30 g,30 g,0.0,0.0,0,1,0.13
+136_gia-vi-ca-kho_F_crop_1.jpg,name,Gia vị Hoàn Chỉnh CÁ KHO,Gia vị Hoàn Chỉnh CÁ KHO,0.0,0.0,0,1,0.39
+137_gia-vi-ca-kho_B_crop_0.jpg,date,191124,191124,0.0,0.0,0,1,0.115
+137_gia-vi-ca-kho_B_crop_1.jpg,date,190925,1903925,0.16666666666666666,1.0,1,0,0.139
+139_gia-vi-thit-kho_B_crop_0.jpg,date,221124,221124,0.0,0.0,0,1,0.115
+139_gia-vi-thit-kho_B_crop_1.jpg,date,221125,221025,0.16666666666666666,1.0,1,0,0.114
+139_gia-vi-thit-kho_B_crop_2.jpg,weight,28 g,28 g,0.0,0.0,0,1,0.106
+140_cot-pho-bo_F_crop_0.jpg,brand,ÔngChàVà,Ông Chà Và,0.25,3.0,2,0,0.19
+140_cot-pho-bo_F_crop_1.jpg,name,Cốt Phở Bò,Cốt BÒ PHỞ,0.6,0.6666666666666666,6,0,0.236
+140_cot-pho-bo_F_crop_2.jpg,weight,90 g,90 g,0.0,0.0,0,1,0.102
+141_cot-pho-bo_B_crop_1.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.188
+142_gia-vi-nem-lau-thai_F_crop_0.jpg,brand,AJINOMOTO,CAUNOMOTOO,0.4444444444444444,1.0,4,0,0.165
+143_gia-vi-bo-kho_F_crop_1.jpg,weight,18G,18 G,0.3333333333333333,2.0,1,0,0.103
+147_bot-ngu-vi-huong_F_crop_1.jpg,date,20/11/2024,,1.0,1.0,8,0,0.026
+147_bot-ngu-vi-huong_F_crop_2.jpg,date,20/11/2026,,1.0,1.0,8,0,0.024
+148_bot-ngu-vi-huong_F_crop_0.jpg,name,BỘT Ngũ vị hương,BỘT ĐO CHẤT NGƯỜI BÌNH TƯƠN TIÊU CHỌN DỪNG Ngũ vị hương,2.4375,2.0,39,0,0.873
+148_bot-ngu-vi-huong_F_crop_1.jpg,weight,10g,10 g,0.3333333333333333,2.0,1,0,0.11
+149_bot-ngu-vi-huong_F_crop_1.jpg,brand,Thành Lộc Foods,Thành LỘC Foods,0.0,0.0,0,1,0.246
+150_bot-ngu-vi-huong_B_crop_0.jpg,date,101124,190124,0.3333333333333333,1.0,2,0,0.118
+150_bot-ngu-vi-huong_B_crop_1.jpg,weight,20 g,20 g,0.0,0.0,0,1,0.101
+150_bot-ngu-vi-huong_B_crop_2.jpg,weight,15g,15 g,0.3333333333333333,2.0,1,0,0.115
+151_bot-cary_F_crop_0.jpg,brand,Vianco,Vianco,0.0,0.0,0,1,0.12
+151_bot-cary_F_crop_2.jpg,brand,CÀRY VIỆT ẤN,CẢRY VIỆT ẤN,0.08333333333333333,0.3333333333333333,1,0,0.209
+152_bot-cary_B_crop_0.jpg,name,BỘT CÀRY,BỘT CÀRY,0.0,0.0,0,1,0.153
+152_bot-cary_B_crop_1.jpg,date,15.10.2024,t,1.0,1.0,10,0,0.059
+152_bot-cary_B_crop_2.jpg,date,15.10.2026,LC r,1.0,2.0,10,0,0.133
+152_bot-cary_B_crop_3.jpg,weight,10g,10 9,0.6666666666666666,2.0,2,0,0.103
+153_bot-cary_F_crop_0.jpg,name,Cà ri Tương Dâu,Cả ti Tương Dầu,0.2,0.75,3,0,0.263
+153_bot-cary_F_crop_1.jpg,weight,20 g,20 g,0.0,0.0,0,1,0.106
+155_bot-cary_F_crop_0.jpg,name,CAU Bột Cari,Bột Cari,0.3333333333333333,0.3333333333333333,4,0,0.174
+156_tieu-den-xay_F_crop_0.jpg,brand,Dh Foods,Dh Foods,0.0,0.0,0,1,0.16
+159_ot-bot_F_crop_1.jpg,name,Ớt Bột,Ớt Bột,0.0,0.0,0,1,0.164
+161_tieu-den-xay_F_crop_0.jpg,brand,Vipep,Vipep,0.0,0.0,0,1,0.128
+161_tieu-den-xay_F_crop_2.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.105
+163_ca-chua-co-dac_F_crop_0.jpg,name,Cà Chua Cô đặc,Cà Chua CƠ đặo,0.14285714285714285,0.5,2,0,0.266
+163_ca-chua-co-dac_F_crop_1.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.192
+163_ca-chua-co-dac_F_crop_2.jpg,weight,210g,210 g,0.25,2.0,1,0,0.119
+165_nuoc-cot-dua-tuoi_F_crop_2.jpg,weight,400 ml,400 ml,0.0,0.0,0,1,0.132
+167_muoi-tom_F_crop_1.jpg,weight,90 g,90 g,0.0,0.0,0,1,0.103
+169_muoi-tom_F_crop_1.jpg,date,07-11-2024,140 075112024 bao,1.125,3.0,9,0,0.275
+169_muoi-tom_F_crop_2.jpg,weight,100g,100 g,0.25,2.0,1,0,0.116
+170_muoi-cham-hao-hao_F_crop_0.jpg,brand,ACECOOK,ACECOOKK,0.14285714285714285,1.0,1,0,0.146
+170_muoi-cham-hao-hao_F_crop_2.jpg,weight,120 g,120 g,0.0,0.0,0,1,0.115
+172_xot-salad-me-rang_F_crop_0.jpg,brand,GOLDEN FARM,CODDERAY,0.6363636363636364,1.0,7,0,0.14
+172_xot-salad-me-rang_F_crop_1.jpg,name,Xốt Salad Mè Rang,Xốt Salad Mộ Rang,0.058823529411764705,0.25,1,0,0.276
+172_xot-salad-me-rang_F_crop_2.jpg,weight,250 ml,250 ml,0.0,0.0,0,1,0.124
+175_xot-salad-me-rang_B_crop_1.jpg,date,20.11.2024,20.11.2024,0.0,0.0,0,1,0.172
+175_xot-salad-me-rang_B_crop_2.jpg,date,20.11.2025,20.11.2025,0.0,0.0,0,1,0.161
+176_nuoc-cham-me-rang_F_crop_0.jpg,brand,KEWPIE,KEWPIE,0.0,0.0,0,1,0.121
+176_nuoc-cham-me-rang_F_crop_1.jpg,name,NƯỚC CHẤM MÈ RANG,NƯỚC CHẤM MÈ RANG,0.0,0.0,0,1,0.286
+179_sot-cham-thit-nuong_F_crop_0.jpg,brand,ofood,ofood,0.0,0.0,0,1,0.108
+179_sot-cham-thit-nuong_F_crop_2.jpg,weight,250 g,250 g,0.0,0.0,0,1,0.118
+180_sot-cham-thit-nuong_B_crop_0.jpg,brand,ofood,ofood,0.0,0.0,0,1,0.103
+181_muc-kho-xe-soi-vi-bo_F_crop_0.jpg,brand,KOCORI NATURALS,COCOI VIUTURIL,0.4666666666666667,1.0,7,0,0.225
+181_muc-kho-xe-soi-vi-bo_F_crop_2.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.11
+183_kho-bo_F_crop_1.jpg,name,KHÔ BÒ,KHÔ BÒ,0.0,0.0,0,1,0.135
+184_kho-bo_B_crop_0.jpg,brand,HẢI CHÂU,HẢI CHÂU,0.0,0.0,0,1,0.149
+184_kho-bo_B_crop_1.jpg,date,23/08/25,23/04/2025,0.5,1.0,3,0,0.168
+184_kho-bo_B_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.119
+185_muc-rim-me_F_crop_1.jpg,name,Mực Rim Me,Mục Kăm MC,0.4,1.0,4,0,0.202
+185_muc-rim-me_F_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.113
+187_ca-du-chay-toi_F_crop_1.jpg,name,CÁ ĐÙ Cháy tỏi,Cá Đà Cháy tỏi,0.07142857142857142,0.25,1,0,0.255
+188_tep-say-gion_F_crop_0.jpg,brand,hainamfoods,List.namom,0.8181818181818182,1.0,9,0,0.162
+188_tep-say-gion_F_crop_1.jpg,name,tép sấy giòn,tép sấy giòn,0.0,0.0,0,1,0.229
+188_tep-say-gion_F_crop_2.jpg,weight,90g,90 g,0.3333333333333333,2.0,1,0,0.104
+189_tep-say-gion_B_crop_0.jpg,date,06/11/2024,06/11/2024,0.0,0.0,0,1,0.17
+189_tep-say-gion_B_crop_1.jpg,date,06/11/2025,06/11/2025,0.0,0.0,0,1,0.164
+190_khoai-mon-say_F_crop_1.jpg,name,KHOAI MÔN SẤY,KHOAI MÔN SẤY,0.0,0.0,0,1,0.239
+190_khoai-mon-say_F_crop_2.jpg,date,20/11/2024,- thúnh,1.0,1.0,8,0,0.137
+190_khoai-mon-say_F_crop_3.jpg,date,20/11/2025,"""",1.0,1.0,8,0,0.08
+191_khoai-mon-say_F_crop_2.jpg,date,20/11/2024,,1.0,1.0,8,0,0.022
+191_khoai-mon-say_F_crop_3.jpg,date,20/11/2025,,1.0,1.0,8,0,0.023
+191_khoai-mon-say_F_crop_4.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.122
+193_khoai-lang-say_F_crop_0.jpg,brand,NHABEXIMS,NHABEXEMS,0.1111111111111111,1.0,1,0,0.152
+194_chuoi-say_F_crop_4.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.112
+195_socola-sua-cadbury-dairy-milk_F_crop_0.jpg,name,SÔCÔLA SỮA CADBURY DAIRY MILK,SÔCÔLA SỮA CADBURYY DAIRY MILK,0.034482758620689655,0.2,1,0,0.449
+195_socola-sua-cadbury-dairy-milk_F_crop_2.jpg,date,450 ngày trước HSD,450 ngày trước HSD,0.0,0.0,0,1,0.279
+196_banh-trang-ot_F_crop_1.jpg,brand,VIET SAN,VIET SAN,0.0,0.0,0,1,0.154
+196_banh-trang-ot_F_crop_2.jpg,name,BÁNH TRÁNG ỚT,BÁNH TRÁNG ỚT,0.0,0.0,0,1,0.239
+196_banh-trang-ot_F_crop_3.jpg,weight,280 g,280 g,0.0,0.0,0,1,0.114
+197_banh-trang-ot_F_crop_3.jpg,brand,VIET SAN,VIET SAN,0.0,0.0,0,1,0.148
+200_banh-trang_F_crop_0.jpg,name,BÁNH TRÁNG,BÁNH TRÁNG,0.0,0.0,0,1,0.184
+200_banh-trang_F_crop_1.jpg,brand,VIET SAN,VIET SAN,0.0,0.0,0,1,0.15
+201_banh-trang_F_crop_0.jpg,date,27/11/24,27/11/24,0.0,0.0,0,1,0.14
+201_banh-trang_F_crop_1.jpg,date,02/12/24,02/12/24,0.0,0.0,0,1,0.137
+201_banh-trang_F_crop_2.jpg,date,27/11/25,27/11/25,0.0,0.0,0,1,0.137
+201_banh-trang_F_crop_3.jpg,name,BÁNH TRÁNG,BÁNH TRÁNG,0.0,0.0,0,1,0.179
+201_banh-trang_F_crop_5.jpg,weight,160 g,160 g,0.0,0.0,0,1,0.145
+202_banh-trang-thanh-long_F_crop_1.jpg,name,BÁNH TRÁNG Thanh Long,BÁNH TRÁNG Thanh Long,0.0,0.0,0,1,0.382
+204_mi-cai-bo-xoi_F_crop_0.jpg,brand,Le Brothers,L Distua,0.7272727272727273,1.0,8,0,0.18
+204_mi-cai-bo-xoi_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.122
+208_mi-rau-cai-bo-xoi_F_crop_0.jpg,brand,ANPASO,ANPATO,0.16666666666666666,1.0,1,0,0.131
+209_mi-rau-cai-bo-xoi_B_crop_1.jpg,date,05/12/2024,05/12/2024,0.0,0.0,0,1,0.23
+209_mi-rau-cai-bo-xoi_B_crop_2.jpg,date,05/10/2025,05/10/2025,0.0,0.0,0,1,0.169
+210_thit-oc-mong-tay_F_crop_0.jpg,name,THỊT ỐC MÓNG TAY,THỊT ỐC MÓNG TAY,0.0,0.0,0,1,0.274
+210_thit-oc-mong-tay_F_crop_1.jpg,weight,200G,200 G,0.25,2.0,1,0,0.114
+210_thit-oc-mong-tay_F_crop_2.jpg,weight,200G,200 G,0.25,2.0,1,0,0.116
+210_thit-oc-mong-tay_F_crop_3.jpg,date,07-01-2025,07-01-12025,0.125,1.0,1,0,0.172
+210_thit-oc-mong-tay_F_crop_4.jpg,date,08-01-2025,08.01-12025,0.25,1.0,2,0,0.172
+211_coi-so-diep_F_crop_0.jpg,name,CÒI SÒ ĐIỆP 100G,CÔI SÔ ĐIỆP 1006,0.1875,0.75,3,0,0.267
+211_coi-so-diep_F_crop_2.jpg,weight,100g,100 g,0.25,2.0,1,0,0.118
+214_cot-let_F_crop_1.jpg,brand,MEAT MASTER,MEAT MASTER,0.0,0.0,0,1,0.198
+214_cot-let_F_crop_2.jpg,brand,MEAT MASTER,MEAT MASTER,0.0,0.0,0,1,0.181
+215_banh-xop-kem-vi-dau_F_crop_0.jpg,brand,KINH DO COSY,KINH DO COSY,0.0,0.0,0,1,0.214
+215_banh-xop-kem-vi-dau_F_crop_1.jpg,name,BÁNH XỐP 2 TRONG 1 KEM VỊ DÂU THE LẠNH,BÁNH XỐP 2 TRONG 1 KEM VỊ DÂU THE LẠNH,0.0,0.0,0,1,0.589
+215_banh-xop-kem-vi-dau_F_crop_2.jpg,weight,"59,5g",59 g,0.4,2.0,2,0,0.105
+215_banh-xop-kem-vi-dau_F_crop_3.jpg,date,040624,1406.24,0.3333333333333333,1.0,2,0,0.129
+215_banh-xop-kem-vi-dau_F_crop_4.jpg,date,040625,040625,0.0,0.0,0,1,0.115
+216_banh-xop-kem-vi-dua_F_crop_4.jpg,weight,"59,5g",59 g,0.4,2.0,2,0,0.103
+217_banh-phong-tom_F_crop_0.jpg,brand,Vina Bich chi,Viên chỉ,0.6153846153846154,1.0,8,0,0.161
+219_bo-thuc-vat_F_crop_0.jpg,name,BỘ THỰC VẬT,BƠ THỰC VẶT,0.18181818181818182,0.6666666666666666,2,0,0.197
+219_bo-thuc-vat_F_crop_1.jpg,date,19 07 25,190725,0.25,1.0,2,0,0.117
+219_bo-thuc-vat_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.116
+220_bo-dau-phong_F_crop_1.jpg,name,BƠ ĐẬU PHỘNG,BƠ ĐẬU PHỘNG,0.0,0.0,0,1,0.211
+220_bo-dau-phong_F_crop_2.jpg,weight,170g,170 g,0.25,2.0,1,0,0.115
+221_bo-dau-phong_F_crop_1.jpg,weight,170 g,170 g,0.0,0.0,0,1,0.115
+223_duong-kinh-trang_F_crop_1.jpg,name,đường kính trắng STANDARD WHITE SUGAR,đường kính STANDARD WHITE trắng,0.2972972972972973,0.3333333333333333,11,0,0.479
+227_danisa_F_crop_0.jpg,name,Danisa,Dania,0.16666666666666666,1.0,1,0,0.126
+227_danisa_F_crop_1.jpg,weight,454g,LEAI &,1.0,1.0,4,0,0.131
+229_hat-huong-duong_F_crop_0.jpg,brand,YẾN NHUNG,LIỆN NHUYÊNG,0.5555555555555556,1.0,5,0,0.204
+231_ot-hiem_F_crop_0.jpg,name,ỚT HIỂM,ỚT HIỂM,0.0,0.0,0,1,0.139
+231_ot-hiem_F_crop_3.jpg,weight,50g,50 g,0.3333333333333333,2.0,1,0,0.104
+232_bun-tuoi_F_crop_1.jpg,name,Bún Tươi,Bán Tươi,0.125,0.5,1,0,0.166
+232_bun-tuoi_F_crop_3.jpg,date,18.11.24,18.11.24,0.0,0.0,0,1,0.138
+232_bun-tuoi_F_crop_4.jpg,date,20.11.24,20.11.24,0.0,0.0,0,1,0.138
+233_suon-non-heo_F_crop_1.jpg,date,18.11.2024,18.11.2024,0.0,0.0,0,1,0.16
+233_suon-non-heo_F_crop_2.jpg,date,19.11.2024,19.11.2024,0.0,0.0,0,1,0.16
+233_suon-non-heo_F_crop_4.jpg,weight,"0,214 kg",0.24 kg,0.25,0.5,2,0,0.143
+234_mam-ruoc-hue_F_crop_1.jpg,name,MẮM RUỐC HUẾ,MẮM RUỐC HUẾ,0.0,0.0,0,1,0.212
+236_ot-trai-ngam-chua-ngot_B_crop_0.jpg,date,09 tháng kể từ NSX,09 tháng kể từ NSX,0.0,0.0,0,1,0.302
+236_ot-trai-ngam-chua-ngot_B_crop_1.jpg,date,26.08.24,26.08.24,0.0,0.0,0,1,0.137
+237_ot-trai-ngam-chua-ngot_B_crop_0.jpg,brand,Sông Hương Foods,Sông Hương Food,0.0625,0.3333333333333333,1,0,0.25
+237_ot-trai-ngam-chua-ngot_B_crop_1.jpg,brand,Sông Hương foods,Sông Hương foods,0.0,0.0,0,1,0.254
+237_ot-trai-ngam-chua-ngot_B_crop_2.jpg,name,ớt trái ngâm chua ngọt,ớt trái ngâm chua ngọt,0.0,0.0,0,1,0.353
+238_cu-cai-muoi-xa-bau_F_crop_0.jpg,brand,MINHHA FOODS,MINH TOODS HA,0.5,1.5,6,0,0.214
+238_cu-cai-muoi-xa-bau_F_crop_1.jpg,name,CỦ CẢI MUỐI XÁ BẤU,CỬ CẢI MUỐI XÁ BẤU,0.05555555555555555,0.2,1,0,0.316
+238_cu-cai-muoi-xa-bau_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.114
+240_xot-gia-vi-kho-mia_F_crop_1.jpg,weight,60 g,60 g,0.0,0.0,0,1,0.106
+241_organic-oat-creamy_F_crop_0.jpg,brand,PURE HARVEST,PURE HARVEST,0.0,0.0,0,1,0.231
+241_organic-oat-creamy_F_crop_2.jpg,weight,1L,1,0.5,1.0,1,0,0.058
+242_organic-oat-creamy_T_crop_0.jpg,brand,PURE HARVEST,PURE HARVEST,0.0,0.0,0,1,0.201
+242_organic-oat-creamy_T_crop_1.jpg,date,09-05-2025,09-05-2025,0.0,0.0,0,1,0.166
+242_organic-oat-creamy_T_crop_2.jpg,date,09-05-2024,09.155.2024,0.5,1.0,4,0,0.176
+242_organic-oat-creamy_T_crop_3.jpg,name,Organic Oat Creamy,Organic Oat Creamy,0.0,0.0,0,1,0.278
+243_organic-oat-original_F_crop_0.jpg,brand,PURE HARVEST,PURE HARVEST,0.0,0.0,0,1,0.226
+244_organic-oat-original_T_crop_1.jpg,date,23-05-2025,25-05-2025,0.125,1.0,1,0,0.211
+244_organic-oat-original_T_crop_2.jpg,date,23-05-2024,25-05-2024,0.125,1.0,1,0,0.163
+245_organic-oat-unsweetened_F_crop_0.jpg,brand,PŪRE HARVEST,PURE HARVEST,0.09090909090909091,0.5,1,0,0.214
+245_organic-oat-unsweetened_F_crop_1.jpg,name,Organic Oat Unsweetened,Organic Oat UNSIVERSIOM,0.30434782608695654,0.3333333333333333,7,0,0.343
+246_organic-oat-unsweetened_T_crop_3.jpg,name,Organic Almond Unsweetened,Organic Alwond UNSTEGERSIOM,0.3076923076923077,0.6666666666666666,8,0,0.382
+247_organic-oat-unsweetened_F_crop_0.jpg,brand,PURE HARVEST,PURE HARVEST,0.0,0.0,0,1,0.21
+248_coconut-cookies_F_crop_1.jpg,name,COCONUT COOKIES,COCONUTUT COOKIES,0.13333333333333333,0.5,2,0,0.273
+248_coconut-cookies_F_crop_2.jpg,weight,160g,160 g,0.25,2.0,1,0,0.116
+249_chocolate-cookies_F_crop_0.jpg,brand,Richwell,Phangly,0.875,1.0,7,0,0.138
+250_chocolate-cookies_B_crop_0.jpg,brand,Richwell,Rienglel,0.625,1.0,5,0,0.15
+250_chocolate-cookies_B_crop_3.jpg,name,CHOCOLATE COOKIES,CHOCOLATE COOKIES 1,0.11764705882352941,0.5,2,0,0.32
+250_chocolate-cookies_B_crop_4.jpg,weight,160g,160 g,0.25,2.0,1,0,0.115
+251_nam-bung-de_F_crop_0.jpg,brand,nấm PHÚ GIA,Phú nấm Gia,0.5454545454545454,0.6666666666666666,6,0,0.192
+251_nam-bung-de_F_crop_1.jpg,name,NẤM BỤNG DÊ,NẤM BỤNG DÊ,0.0,0.0,0,1,0.2
+252_nam-bung-de_B_crop_0.jpg,name,NẤM BỤNG DÊ,NẤM BỤNG DÊ,0.0,0.0,0,1,0.197
+252_nam-bung-de_B_crop_1.jpg,date,20/11/2024,20/11/2024,0.0,0.0,0,1,0.163
+252_nam-bung-de_B_crop_2.jpg,date,20/11/2025,20/11/2025,0.0,0.0,0,1,0.168
+252_nam-bung-de_B_crop_3.jpg,weight,30 g,30 g,0.0,0.0,0,1,0.104
+253_nam-huong_B_crop_0.jpg,name,NẤM HƯƠNG,NẤM HƯƠNG,0.0,0.0,0,1,0.183
+253_nam-huong_B_crop_1.jpg,date,10/12/2024,10/12/2024,0.0,0.0,0,1,0.168
+253_nam-huong_B_crop_2.jpg,date,10/12/2025,10/12/2025,0.0,0.0,0,1,0.161
+253_nam-huong_B_crop_3.jpg,weight,100g,100 g,0.25,2.0,1,0,0.117
+254_nam-huong_F_crop_0.jpg,brand,nấm PHÚ GIA,nấm Phú Gia,0.0,0.0,0,1,0.194
+254_nam-huong_F_crop_1.jpg,name,HƯƠNG NẤM,NẤM Hương,0.8888888888888888,1.0,8,0,0.17
+256_nam-thai-duong_B_crop_0.jpg,name,Nấm Thái Dương,Nấm Thái Dương,0.0,0.0,0,1,0.234
+256_nam-thai-duong_B_crop_1.jpg,date,20/11/2024,TRANG,1.0,1.0,8,0,0.106
+256_nam-thai-duong_B_crop_2.jpg,date,20/11/2025,,1.0,1.0,8,0,0.024
+256_nam-thai-duong_B_crop_3.jpg,weight,70 g,70 g,0.0,0.0,0,1,0.1
+257_moc-nhi-bao-tu_F_crop_0.jpg,brand,nấm PHÚ GIA,Phú nấm Gia,0.5454545454545454,0.6666666666666666,6,0,0.194
+258_moc-nhi-bao-tu_B_crop_1.jpg,date,10/12/2024,10/12/2024,0.0,0.0,0,1,0.165
+258_moc-nhi-bao-tu_B_crop_2.jpg,date,10/12/2025,10/12/2025,0.0,0.0,0,1,0.167
+258_moc-nhi-bao-tu_B_crop_3.jpg,weight,70 g,70 g,0.0,0.0,0,1,0.106
+259_nam-dong-co-kho_F_crop_0.jpg,brand,Tram Anh FOOD,Tranamim FOOD,0.38461538461538464,0.6666666666666666,5,0,0.221
+259_nam-dong-co-kho_F_crop_1.jpg,name,Nấm ĐÔNG CÔ KHÔ,Nấm ĐÔNG CÔ KHÔ,0.0,0.0,0,1,0.258
+262_ghe-sua-tam-me-say-gion_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.148
+262_ghe-sua-tam-me-say-gion_F_crop_2.jpg,weight,120 g,120 g,0.0,0.0,0,1,0.116
+265_bun-rieu-chay_F_crop_0.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.187
+265_bun-rieu-chay_F_crop_1.jpg,name,Bún Riêu Chay,BỘN Riêu Chay,0.07692307692307693,0.3333333333333333,1,0,0.24
+266_ruoc-tam-gia-vi-say-gion_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.152
+266_ruoc-tam-gia-vi-say-gion_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.117
+267_ruoc-tam-gia-vi-say-gion_B_crop_3.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.151
+268_kho-muc-xe-tam-gia-vi_F_crop_1.jpg,name,Khô Mực Xé Tẩm Gia Vị,Khô Mụa Xố Tấm Gia Vị,0.19047619047619047,0.5,4,0,0.351
+269_kho-muc-xe-tam-gia-vi_B_crop_3.jpg,weight,100g,100 g,0.25,2.0,1,0,0.145
+270_hu-tieu-chay_F_crop_0.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.195
+270_hu-tieu-chay_F_crop_1.jpg,name,HỦ TIẾU Chay,TIÊU HỦ SADER Chay,0.8333333333333334,0.6666666666666666,10,0,0.32
+270_hu-tieu-chay_F_crop_2.jpg,weight,126 g,126 g,0.0,0.0,0,1,0.118
+272_kho-ca-bong-cat-soi_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.181
+272_kho-ca-bong-cat-soi_F_crop_2.jpg,weight,150 g,150 g,0.0,0.0,0,1,0.115
+273_kho-ca-bong-cat-soi_B_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.149
+273_kho-ca-bong-cat-soi_B_crop_1.jpg,date,04/12/2024,04/12/2024,0.0,0.0,0,1,0.161
+273_kho-ca-bong-cat-soi_B_crop_2.jpg,date,04/12/2025,04/12/2025,0.0,0.0,0,1,0.168
+274_muc-rim-me_T_crop_0.jpg,name,Mực Rim Me,Mụi Rim Ma,0.3,0.6666666666666666,3,0,0.193
+274_muc-rim-me_T_crop_1.jpg,date,20/08/2024,20/08/2024,0.0,0.0,0,1,0.164
+274_muc-rim-me_T_crop_2.jpg,date,20/08/2025,20/08/2025,0.0,0.0,0,1,0.162
+275_muc-rim-me_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.181
+275_muc-rim-me_F_crop_2.jpg,weight,90 g,90 g,0.0,0.0,0,1,0.108
+276_kho-bo-xe-cay_F_crop_2.jpg,weight,145 g,145 g,0.0,0.0,0,1,0.142
+276_kho-bo-xe-cay_F_crop_3.jpg,date,16/09/25,16/09/25,0.0,0.0,0,1,0.138
+277_kho-bo-xe-cay_F_crop_2.jpg,date,16/09/25,16/09/25,0.0,0.0,0,1,0.142
+278_xot-spaghetti_F_crop_1.jpg,brand,OTTOGI,OTTOGI,0.0,0.0,0,1,0.123
+278_xot-spaghetti_F_crop_2.jpg,weight,110g,110 g,0.25,2.0,1,0,0.115
+279_xot-spaghetti_B_crop_0.jpg,date,19.12.2024,19.12.2024,0.0,0.0,0,1,0.159
+279_xot-spaghetti_B_crop_1.jpg,date,19.12.2025,19.12.2025,0.0,0.0,0,1,0.173
+280_banh-hoi_F_crop_0.jpg,brand,Sa Giang,SA Giang,0.0,0.0,0,1,0.155
+280_banh-hoi_F_crop_1.jpg,name,Bánh Hỏi,Hỗi Bánh,1.0,1.0,8,0,0.183
+280_banh-hoi_F_crop_2.jpg,brand,Sa Giang,Sa Giang,0.0,0.0,0,1,0.158
+282_rong-nho-tach-nuoc_F_crop_1.jpg,name,RONG NHO TÁCH NƯỚC,RONG NHO TÁCH nƯỚC,0.0,0.0,0,1,0.29
+284_rong-bien-gion-tron-gia-vi_F_crop_0.jpg,brand,ofood,ofood,0.0,0.0,0,1,0.105
+285_rong-bien-gion-tron-gia-vi_F_crop_0.jpg,brand,ofood,SOS,0.8,1.0,4,0,0.081
+285_rong-bien-gion-tron-gia-vi_F_crop_1.jpg,name,Rong biển giòn trộn gia vị ,Rong trộn biễn gia giòn Vị,0.4230769230769231,0.6666666666666666,11,0,0.425
+285_rong-bien-gion-tron-gia-vi_F_crop_2.jpg,weight,40 g,40 g,0.0,0.0,0,1,0.106
+286_banh-phong_F_crop_0.jpg,brand,Sa Giang,Sâ Giảng,0.25,1.0,2,0,0.156
+286_banh-phong_F_crop_2.jpg,brand,Sa Giang,SA Giang,0.0,0.0,0,1,0.159
+288_banh-phong-tom_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.149
+290_rong-bien_F_crop_3.jpg,weight,40 g,40 g,0.0,0.0,0,1,0.105
+291_banh-phong-gao-lut_F_crop_2.jpg,name,BÁNH PHỒNG GẠO LỨT,BÁNH PHÒNG SẠO LÚT,0.16666666666666666,0.75,3,0,0.296
+293_banh-trang-gao_F_crop_2.jpg,date,31\10\2024,31/10/2024,0.0,0.0,0,1,0.167
+293_banh-trang-gao_F_crop_3.jpg,date,02\11\2024,02/11/2024,0.0,0.0,0,1,0.158
+293_banh-trang-gao_F_crop_4.jpg,date,31\10\2025,31/10/2025,0.0,0.0,0,1,0.17
+293_banh-trang-gao_F_crop_5.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.114
+293_banh-trang-gao_F_crop_6.jpg,date,12 tháng kể từ ngày sản xuất.,12 tháng kể từ ngày sản xuất,0.034482758620689655,0.14285714285714285,1,0,0.435
+294_banh-trang-gao_B_crop_0.jpg,brand,Mikiri,Miki,0.3333333333333333,1.0,2,0,0.102
+294_banh-trang-gao_B_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.112
+297_banh-trang_F_crop_0.jpg,name,BÁNH TRÁNG,BÁNH TRÁNG,0.0,0.0,0,1,0.182
+297_banh-trang_F_crop_1.jpg,weight,400 g,400 g,0.0,0.0,0,1,0.113
+298_banh-trang-khong-nhung-nuoc_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.155
+298_banh-trang-khong-nhung-nuoc_F_crop_1.jpg,name,Bánh Tráng Không Nhúng Nước,Bánh Tráng Không Nhúng Nước,0.0,0.0,0,1,0.417
+298_banh-trang-khong-nhung-nuoc_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.114
+299_banh-trang-khong-nhung-nuoc_B_crop_1.jpg,date,21/12/2024,21/12/2024,0.0,0.0,0,1,0.163
+299_banh-trang-khong-nhung-nuoc_B_crop_2.jpg,date,26/12/2024,26/12/2024,0.0,0.0,0,1,0.161
+299_banh-trang-khong-nhung-nuoc_B_crop_3.jpg,date,21/12/2025,21/12/2025,0.0,0.0,0,1,0.163
+300_banh-trang-nuong_F_crop_0.jpg,brand,Mikiri,Mikiri,0.0,0.0,0,1,0.131
+300_banh-trang-nuong_F_crop_1.jpg,name,BÁNH TRÁNG NƯỚNG,BÁNH TRÁNG NƯỚNG,0.0,0.0,0,1,0.274
+301_banh-trang_F_crop_2.jpg,weight,300 gam,300 gam,0.0,0.0,0,1,0.138
+303_banh-phong-gao-lut_F_crop_3.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.113
+304_gia-vi-rac-com_F_crop_0.jpg,brand,Enzy,Enxy,0.25,1.0,1,0,0.092
+304_gia-vi-rac-com_F_crop_2.jpg,weight,30 g,30 g,0.0,0.0,0,1,0.1
+305_gia-vi-rac-com_B_crop_2.jpg,weight,30 g,30 g,0.0,0.0,0,1,0.101
+306_kho-bo-uc_F_crop_0.jpg,date,29/03/2024,29.19/2024,0.375,1.0,3,0,0.159
+306_kho-bo-uc_F_crop_1.jpg,date,29/08/2025,29/08/2025,0.0,0.0,0,1,0.163
+306_kho-bo-uc_F_crop_4.jpg,weight,30 g,30 g,0.0,0.0,0,1,0.106
+307_thi-bo-kho_F_crop_0.jpg,brand,TUYEN KY FOOD 1948,TUYÊN KY TOOD,0.3888888888888889,0.75,7,0,0.214
+307_thi-bo-kho_F_crop_1.jpg,name,Thịt Bò Khô,Thịt Bò Khô,0.0,0.0,0,1,0.201
+307_thi-bo-kho_F_crop_2.jpg,brand,TUYỀN KÝ,TUYỀN KỸ,0.125,0.5,1,0,0.158
+307_thi-bo-kho_F_crop_5.jpg,weight,150g,150 g,0.25,2.0,1,0,0.114
+309_muc-nuong-can-duoi-tam-ot_B_crop_0.jpg,name,MỰC NƯỚNG CÁN DƯỠI TẨM ỚT,CÁN MỰC DUỖI NƯỚNG TẨM ỚT,0.6,0.6666666666666666,15,0,0.394
+313_thit-bo-kho_F_crop_2.jpg,brand,TUYEN KY FOOD 1948,TUYEN 1948 KY TOSD,0.6111111111111112,0.75,11,0,0.292
+313_thit-bo-kho_F_crop_4.jpg,weight,60 g,60 g,0.0,0.0,0,1,0.101
+314_nui-no_F_crop_1.jpg,name,Nui Nơ,Nui Nơ,0.0,0.0,0,1,0.132
+315_nui-no_F_crop_0.jpg,name,Nui Nơ,Nui Nơ,0.0,0.0,0,1,0.129
+316_lap-xuong_F_crop_0.jpg,brand,wyn,lyện,0.6666666666666666,1.0,2,0,0.098
+316_lap-xuong_F_crop_2.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.12
+318_dates-dried-fruit_F_crop_0.jpg,brand,BAKALLAND,BAKALLLAND,0.1111111111111111,1.0,1,0,0.162
+319_dates-dried-fruit_T_crop_2.jpg,brand,BAKALLAND,BAKALLAND,0.0,0.0,0,1,0.158
+320_banh-quy-lua-mi_D_crop_1.jpg,brand,McVitie's Digestive Minis,Mevifes Digesine Minis,0.20833333333333334,0.6666666666666666,5,0,0.372
+322_snack-que-nhan-sua_F_crop_0.jpg,brand,Oishi,Oishi,0.0,0.0,0,1,0.109
+326_socola-nhan-kem-ca-phe_B_crop_0.jpg,weight,64 g,64 g,0.0,0.0,0,1,0.105
+326_socola-nhan-kem-ca-phe_B_crop_1.jpg,date,17/12/24,17/12/2024,0.3333333333333333,1.0,2,0,0.162
+326_socola-nhan-kem-ca-phe_B_crop_2.jpg,date,17/06/26,17/06/26,0.0,0.0,0,1,0.141
+328_socola-sua-nhan-hat-sen_B_crop_0.jpg,weight,72 g,72 g,0.0,0.0,0,1,0.102
+329_socola-sua_F_crop_2.jpg,weight,100 G,100 G,0.0,0.0,0,1,0.138
+330_socola-sua_B_crop_0.jpg,brand,MR.VIET,MR.VIET,0.0,0.0,0,1,0.17
+330_socola-sua_B_crop_1.jpg,date,04/11/2024,04/11/2024,0.0,0.0,0,1,0.192
+330_socola-sua_B_crop_2.jpg,date,03/11/2025,03/11/2025,0.0,0.0,0,1,0.229
+331_socola-den_F_crop_0.jpg,brand,Beryl's,Baylis,0.5,1.0,3,0,0.143
+331_socola-den_F_crop_1.jpg,name,Dark Chocolate Coklat Hitam,Dark Chocolie Coklat Hiam,0.1111111111111111,0.5,3,0,0.379
+331_socola-den_F_crop_2.jpg,weight,90g,90 g,0.3333333333333333,2.0,1,0,0.126
+332_socola-trang-voi-banh-quy_F_crop_0.jpg,name,SÔCÔLA TRẮNG VỚI BÁNH QUY,SÔCÔLA TRẮNG VỚI BÁNH QUY,0.0,0.0,0,1,0.391
+332_socola-trang-voi-banh-quy_F_crop_1.jpg,brand,Kisses,KISSS,0.16666666666666666,1.0,1,0,0.111
+333_socola-trang-voi-banh-quy_F_crop_1.jpg,date,31/07/2024,từ H,1.0,2.0,8,0,0.102
+333_socola-trang-voi-banh-quy_F_crop_2.jpg,date,24/10/2025,từ hà JI hà,1.375,4.0,11,0,0.205
+334_banh-xop-phu-socola-sua_F_crop_0.jpg,brand,Nestle,Nestle,0.0,0.0,0,1,0.12
+334_banh-xop-phu-socola-sua_F_crop_2.jpg,weight,114 g,114 g,0.0,0.0,0,1,0.112
+334_banh-xop-phu-socola-sua_F_crop_3.jpg,brand,KitKat,LESUNG,1.0,1.0,6,0,0.139
+336_socola-dieu_F_crop_0.jpg,brand,HENK CHOCOLATE,HEN CHOCOLATE,0.07142857142857142,0.5,1,0,0.21
+336_socola-dieu_F_crop_1.jpg,name,SÔ CÔ LA Phủ Hạt ĐIỀU,SÔ CÔ LA Phủ Hại ĐIỀU,0.047619047619047616,0.16666666666666666,1,0,0.357
+336_socola-dieu_F_crop_2.jpg,weight,150G,C Côn,1.25,2.0,5,0,0.143
+338_socola-hanh-nhan_F_crop_0.jpg,brand,Beryl's,Beyvls,0.3333333333333333,1.0,2,0,0.117
+338_socola-hanh-nhan_F_crop_1.jpg,name,Almond White Chocolate,Almond Uhite Choodile,0.22727272727272727,0.6666666666666666,5,0,0.318
+338_socola-hanh-nhan_F_crop_2.jpg,brand,TIRAMISU,TIRAMISU,0.0,0.0,0,1,0.153
+339_socola-hanh-nhan_B_crop_0.jpg,brand,TIRAMISU,VIREMISU,0.25,1.0,2,0,0.151
+339_socola-hanh-nhan_B_crop_1.jpg,name,Sô cô la Beryl's Classic Tiramisu trắng hạnh nhân,Sô cô la Besy's Chassic Tramisu trảng hạnh nhân,0.10416666666666667,0.4444444444444444,5,0,0.682
+340_splendeur-assortment_F_crop_0.jpg,brand,RINDA,RINDA,0.0,0.0,0,1,0.107
+341_coconut-wafers_F_crop_2.jpg,weight,100 G,400 G,0.2,0.5,1,0,0.122
+343_nabati_F_crop_0.jpg,name,Bánh Sôcôla (Dạng Xốp),Bánh Sôcôla (Dạng Xốp),0.0,0.0,0,1,0.337
+343_nabati_F_crop_1.jpg,brand,nabati,nabai,0.16666666666666666,1.0,1,0,0.124
+343_nabati_F_crop_2.jpg,weight,300 g,300 g,0.0,0.0,0,1,0.113
+345_dream-cake_F_crop_1.jpg,weight,204 g,204 g,0.0,0.0,0,1,0.115
+346_dream-cake_T_crop_2.jpg,brand,LOTTE,LOTTE,0.0,0.0,0,1,0.108
+347_chocolate-sua_F_crop_0.jpg,brand,ARCHCAFÉ,ARCHCCAFÉ,0.125,1.0,1,0,0.169
+347_chocolate-sua_F_crop_1.jpg,name,Chocolate Sữa,Chocole: Sữa,0.15384615384615385,0.5,2,0,0.203
+347_chocolate-sua_F_crop_2.jpg,name,Bột Chocolate Sữa,Bột Chocolee Sữa,0.11764705882352941,0.3333333333333333,2,0,0.254
+349_bot-hoa-tan-atiso_F_crop_1.jpg,name,BỘT HOÀ TAN ATISÔ,BỘT HOÀ TAN ATISO,0.058823529411764705,0.25,1,0,0.286
+351_duong-tinh-luyen_F_crop_0.jpg,brand,BienHoa PURE,Bienhoo puse,0.16666666666666666,1.0,2,0,0.218
+351_duong-tinh-luyen_F_crop_2.jpg,weight,1kg,1 kg,0.3333333333333333,2.0,1,0,0.103
+352_sen-tuoi-say_F_crop_0.jpg,brand,Hata,HatA,0.0,0.0,0,1,0.093
+354_hat-huong-duong-vi-dua_F_crop_0.jpg,brand,ChaCheer,ChaCheer,0.0,0.0,0,1,0.145
+354_hat-huong-duong-vi-dua_F_crop_2.jpg,weight,40 g,40 g,0.0,0.0,0,1,0.104
+355_hat-huong-duong-vi-dua_B_crop_0.jpg,brand,chatchee,ChoCheeg,0.375,1.0,3,0,0.139
+355_hat-huong-duong-vi-dua_B_crop_1.jpg,brand,ChaCheer,ChaCheer,0.0,0.0,0,1,0.143
+356_hat-huong-duong-vi-ngu-vi-huong_F_crop_0.jpg,brand,ChatCheer,ChaCheer,0.1111111111111111,1.0,1,0,0.148
+356_hat-huong-duong-vi-ngu-vi-huong_F_crop_2.jpg,weight,130 g,130 g,0.0,0.0,0,1,0.12
+357_hat-huong-duong-vi-ngu-vi-huong_B_crop_0.jpg,brand,ChaCheer,Cheere,0.5,1.0,4,0,0.114
+358_hat-huong-duong_F_crop_0.jpg,brand,chatCheer,ChaCheer,0.1111111111111111,1.0,1,0,0.145
+358_hat-huong-duong_F_crop_1.jpg,name,HẠT HƯỚNG DƯƠNG ORIGINAL FLAVOR,HẠT HƯỚNG DƯƠNG ORIGINAL FLAVOR,0.0,0.0,0,1,0.464
+360_hat-chia_F_crop_0.jpg,brand,EPCO FOODS,EPCO FOODS-,0.0,0.0,0,1,0.194
+362_ca-phe-phin-giay_F_crop_1.jpg,name,CÀ PHÊ PHIN GIẤY,CÀ PHÊ PHIN GIẤY,0.0,0.0,0,1,0.294
+362_ca-phe-phin-giay_F_crop_2.jpg,name,CÀ PHÊ RANG XAY,CÀ PHÊ RANG XAY,0.0,0.0,0,1,0.302
+362_ca-phe-phin-giay_F_crop_3.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.122
+364_ca-phe-rang-xay_F_crop_3.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.112
+366_tra-trai-cay-hat-chia_F_crop_1.jpg,brand,Fruit Tea with Chia seeds GU VIỆT,Fruit Tea wilh Chia secds GU VIỆT,0.06060606060606061,0.2857142857142857,2,0,0.499
+368_ngoi-sao-phuong-nam_F_crop_2.jpg,weight,380 g,380 g,0.0,0.0,0,1,0.112
+369_banh-dua-nuong_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.151
+369_banh-dua-nuong_F_crop_1.jpg,name,BÁNH DỪA NƯỚNG - GẠO LỨT ĐẬU XANH -,BÁNH DỪA NƯỚNG BAOTOT LÚT ĐẦU XAUI -,0.28125,0.5714285714285714,9,0,0.558
+371_trung-ga-omega-3_F_crop_1.jpg,name,TRỨNG GÀ,TRƯNG GÀ,0.125,0.5,1,0,0.167
+371_trung-ga-omega-3_F_crop_2.jpg,date,07-12-2023,07-12-2026,0.125,1.0,1,0,0.176
+371_trung-ga-omega-3_F_crop_3.jpg,date,16-12-2023,16-12-2025,0.125,1.0,1,0,0.167
+372_ca-mo-lam-sach_F_crop_0.jpg,name,CÁ MÓ LÀM SẠCH,CÁ MÓ LÀM SẠCH,0.0,0.0,0,1,0.253
+372_ca-mo-lam-sach_F_crop_1.jpg,date,08/12/2023,08/12/2023,0.0,0.0,0,1,0.172
+372_ca-mo-lam-sach_F_crop_2.jpg,date,09/12/2023,09/12/2023,0.0,0.0,0,1,0.165
+373_dau-hu-ta_F_crop_0.jpg,date,281123,281123,0.0,0.0,0,1,0.116
+373_dau-hu-ta_F_crop_1.jpg,date,181223,181223,0.0,0.0,0,1,0.115
+373_dau-hu-ta_F_crop_3.jpg,weight,280 g,280 g,0.0,0.0,0,1,0.121
+374_tori-canh-toi_F_crop_0.jpg,name,CANH TOI,CANH TOI,0.0,0.0,0,1,0.149
+374_tori-canh-toi_F_crop_4.jpg,weight,"0,528",0,0.8,1.0,4,0,0.061
+377_thit-co-bo-my-va-ba-roi-ba-my_F_crop_0.jpg,name,THỊT CỔ BÒ MỸ VÀ BA RỌI BÒ MỸ,THỊT CỔ BÒ MỸ VÀ BA RỌI BÒ MỸ,0.0,0.0,0,1,0.515
+377_thit-co-bo-my-va-ba-roi-ba-my_F_crop_1.jpg,date,07.11.2023,07.11.2023,0.0,0.0,0,1,0.163
+377_thit-co-bo-my-va-ba-roi-ba-my_F_crop_2.jpg,date,05.12.2023,05.12.2024,0.1,1.0,1,0,0.162
+377_thit-co-bo-my-va-ba-roi-ba-my_F_crop_3.jpg,date,07.05.2025,07.05.2025,0.0,0.0,0,1,0.171
+379_nac-heo-xay_L_crop_1.jpg,weight,0.312 kg,0 kg,0.5,0.5,4,0,0.11
+379_nac-heo-xay_L_crop_2.jpg,date,9.12.2023,3.12.2023,0.1111111111111111,1.0,1,0,0.158
+379_nac-heo-xay_L_crop_3.jpg,date,10.12.2023,10.12.2023,0.0,0.0,0,1,0.165
+379_nac-heo-xay_L_crop_4.jpg,brand,CP,CP,0.0,0.0,0,1,0.069
+380_nac-heo-xay_R_crop_3.jpg,weight,0.312 kg,0.312 kg,0.0,0.0,0,1,0.158
+381_ba-roi-heo_F_crop_0.jpg,name,BA ROI HEO C.P,BA ROI HEO C.P,0.0,0.0,0,1,0.243
+381_ba-roi-heo_F_crop_1.jpg,weight,0.302 kg,0 kg,0.5,0.5,4,0,0.108
+382_hit-hop_D_crop_1.jpg,date,26/04/2023,26/04/2023,0.0,0.0,0,1,0.173
+382_hit-hop_D_crop_2.jpg,date,26/04/2026,26/04/2026,0.0,0.0,0,1,0.167
+382_hit-hop_D_crop_3.jpg,weight,340 g,340 g,0.0,0.0,0,1,0.114
+383_so-than-bo_F_crop_3.jpg,weight,0.468,0.466,0.2,1.0,1,0,0.102
+384_so-vun-ca-hoi-nauy_F_crop_0.jpg,name,S0-VUN CA HOI NAUY,49-LUUN CA HOI NAUY,0.23529411764705882,0.25,4,0,0.305
+384_so-vun-ca-hoi-nauy_F_crop_1.jpg,date,13-01-24,13-0024,0.16666666666666666,1.0,1,0,0.125
+384_so-vun-ca-hoi-nauy_F_crop_2.jpg,date,14-01-24,14-01-24,0.0,0.0,0,1,0.142
+384_so-vun-ca-hoi-nauy_F_crop_3.jpg,weight,0.654,0,0.8,1.0,4,0,0.057
+385_sot-uop-thit-han-quoc_F_crop_0.jpg,brand,O'Food,Oiood,0.2,1.0,1,0,0.11
+385_sot-uop-thit-han-quoc_F_crop_2.jpg,name,Sốt ướp thịt kiểu Hàn Quốc vị cay,Sốt ƯỚp thịt liểu Hàà Quốc vị cay,0.06060606060606061,0.25,2,0,0.511
+386_pho-mai-xong-khoi_F_crop_0.jpg,brand,GOODFOOD,COODEOUD,0.375,1.0,3,0,0.134
+386_pho-mai-xong-khoi_F_crop_2.jpg,date,05/07/2023,05/07/2023,0.0,0.0,0,1,0.163
+386_pho-mai-xong-khoi_F_crop_3.jpg,date,04/07/2024,04/07/2024,0.0,0.0,0,1,0.155
+387_sua-dau-nanh_F_crop_0.jpg,name,SỮA ĐẬU NÀNH,SỮA ĐẬU NÀNH,0.0,0.0,0,1,0.207
+387_sua-dau-nanh_F_crop_1.jpg,brand,ICHIBAN,ICHIBEN,0.14285714285714285,1.0,1,0,0.124
+388_muc-mot-nang-sot-nuoc-mam_F_crop_3.jpg,weight,"0,226",0,0.8,1.0,4,0,0.055
+389_ma-dui-ga_F_crop_1.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.116
+390_dui-toi-tuoi_F_crop_0.jpg,name,Đùi Tỏi Tươi,Đùi Tôi Tươi,0.08333333333333333,0.3333333333333333,1,0,0.204
+390_dui-toi-tuoi_F_crop_2.jpg,date,02/02/2024,02/02/2024,0.0,0.0,0,1,0.16
+390_dui-toi-tuoi_F_crop_3.jpg,date,07/02/2024,07/02/2024,0.0,0.0,0,1,0.161
+391_phi-le-ga-khong-da_F_crop_1.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.113
+391_phi-le-ga-khong-da_F_crop_2.jpg,date,02 02 2024,02 02 2024,0.0,0.0,0,1,0.183
+391_phi-le-ga-khong-da_F_crop_3.jpg,date,04 02 2024,04 02 2024,0.0,0.0,0,1,0.183
+392_phi-le-ga-khong-da_F_crop_0.jpg,name,Phi lê gà không da,Phi lê gà không đa,0.05555555555555555,0.2,1,0,0.323
+394_phi-le-ga-khong-da_F_crop_3.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.118
+395_hat-dua_F_crop_1.jpg,brand,select,Selech,0.16666666666666666,1.0,1,0,0.128
+395_hat-dua_F_crop_2.jpg,date,05/12/2023,05/12/2023,0.0,0.0,0,1,0.163
+395_hat-dua_F_crop_3.jpg,date,18/01/2024,18/01/2024,0.0,0.0,0,1,0.188
+395_hat-dua_F_crop_5.jpg,date,12 tháng kể từ NSX,12 tháng kể từ NSX,0.0,0.0,0,1,0.303
+397_xa-lach_F_crop_1.jpg,date,31/01/2024,31/01/2024,0.0,0.0,0,1,0.162
+398_dua-leo_F_crop_0.jpg,name,Dưa Leo,Dưa Leo,0.0,0.0,0,1,0.138
+398_dua-leo_F_crop_2.jpg,brand,Select,Select,0.0,0.0,0,1,0.127
+399_tuong-ot_F_crop_1.jpg,date,14.12.23,14.12.23,0.0,0.0,0,1,0.143
+399_tuong-ot_F_crop_2.jpg,date,14.12.24,14.12.24,0.0,0.0,0,1,0.141
+399_tuong-ot_F_crop_3.jpg,weight,10 g,10 g,0.0,0.0,0,1,0.106
+400_bot-ngu-vi-huong_B_crop_0.jpg,name,BỘT NGŨ VỊ HƯƠNG,BỘT NGŨ VỊ HƯƠNG,0.0,0.0,0,1,0.273
+400_bot-ngu-vi-huong_B_crop_1.jpg,date,07.12.2023,QUỐC LỮI,1.0,2.0,10,0,0.151
+400_bot-ngu-vi-huong_B_crop_2.jpg,date,07.12.2025,t LẺI,1.0,2.0,10,0,0.115
+402_uc-fillet-tuoi_F_crop_0.jpg,name,ức Fillet Tươi,ỨC Filet Tươi,0.07142857142857142,0.3333333333333333,1,0,0.23
+402_uc-fillet-tuoi_F_crop_1.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.112
+402_uc-fillet-tuoi_F_crop_2.jpg,date,08/03/2024,08/03/2024,0.0,0.0,0,1,0.16
+402_uc-fillet-tuoi_F_crop_3.jpg,date,13/03/2024,13/03/2024,0.0,0.0,0,1,0.158
+402_uc-fillet-tuoi_F_crop_4.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.113
+403_ma-dui-ga-cat-san_F_crop_1.jpg,date,3.2.2024,3.2.2024,0.0,0.0,0,1,0.135
+403_ma-dui-ga-cat-san_F_crop_2.jpg,date,4.2.2024,4.2.2024,0.0,0.0,0,1,0.138
+403_ma-dui-ga-cat-san_F_crop_3.jpg,weight,0.298 kg,0.28 kg,0.125,0.5,1,0,0.136
+404_thit-xay_F_crop_0.jpg,name,THIT XAY C.P,THIT XAY B.P,0.08333333333333333,0.3333333333333333,1,0,0.208
+404_thit-xay_F_crop_1.jpg,date,3.2.2024,3.2.2024,0.0,0.0,0,1,0.139
+404_thit-xay_F_crop_2.jpg,date,4.2.2024,4.2.2024,0.0,0.0,0,1,0.137
+405_nac-dam-heo_F_crop_1.jpg,date,3.2.2024,3.2.2024,0.0,0.0,0,1,0.138
+405_nac-dam-heo_F_crop_2.jpg,date,4.2.2024,4.2.2024,0.0,0.0,0,1,0.135
+405_nac-dam-heo_F_crop_3.jpg,weight,0.592 kg,0.592 kg,0.0,0.0,0,1,0.149
+406_dui-goc-tu_F_crop_0.jpg,name,Đùi Góc Tư Tươi,Đài Góa Tư Tươi,0.13333333333333333,0.5,2,0,0.254
+406_dui-goc-tu_F_crop_2.jpg,date,02/02/2024,02/02/2024,0.0,0.0,0,1,0.176
+406_dui-goc-tu_F_crop_3.jpg,date,07/02/2024,07/02/2024,0.0,0.0,0,1,0.16
+407_banh-gau-sua_F_crop_1.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.116
+408_bot-toi_F_crop_1.jpg,date,27/01/2024,27/01/2024,0.0,0.0,0,1,0.163
+408_bot-toi_F_crop_2.jpg,date,27/01/2026,27/01/2026,0.0,0.0,0,1,0.161
+411_tom-kho_B_crop_0.jpg,date,17/11/2023,17/11/2025,0.125,1.0,1,0,0.167
+411_tom-kho_B_crop_1.jpg,date,6 tháng kể từ ngày sản xuất.,6 tháng kể từ ngày sản xuất,0.03571428571428571,0.14285714285714285,1,0,0.428
+412_hat-oc-cho_F_crop_0.jpg,name,Hạt óc chó,Hạt ó chó,0.1,0.3333333333333333,1,0,0.175
+413_xoai-say-deo_F_crop_0.jpg,name,Xoài sấy dẻo,Xoài Sấy đẻo,0.08333333333333333,0.3333333333333333,1,0,0.211
+414_fillet-ca-hoi-con-da_F_crop_1.jpg,date,03-03-24,03-05-24,0.16666666666666666,1.0,1,0,0.139
+414_fillet-ca-hoi-con-da_F_crop_2.jpg,date,05-03-24,05-03-24,0.0,0.0,0,1,0.138
+414_fillet-ca-hoi-con-da_F_crop_3.jpg,weight,"0,290",0,0.8,1.0,4,0,0.059
+415_tom-su-tuoi_F_crop_0.jpg,name,TOM SU TUOI,TOM SƯ TƯƠI,0.2727272727272727,0.6666666666666666,3,0,0.195
+417_thit-heo_F_crop_1.jpg,date,27/11/23,27/11/23,0.0,0.0,0,1,0.142
+417_thit-heo_F_crop_2.jpg,date,29/11/23,29/11/23,0.0,0.0,0,1,0.143
+418_phi-le-uc_F_crop_0.jpg,brand,JAFFA,LAPERA,0.8,1.0,4,0,0.12
+418_phi-le-uc_F_crop_2.jpg,date,13-12-23,15-11-23,0.3333333333333333,1.0,2,0,0.136
+418_phi-le-uc_F_crop_3.jpg,date,15-12-23,15-11-25,0.3333333333333333,1.0,2,0,0.134
+418_phi-le-uc_F_crop_4.jpg,weight,"0,520",0,0.8,1.0,4,0,0.056
+420_hat-hanh-nhan-va-bap-nuong_F_crop_0.jpg,name,HẠT HẠNH NHÂN VÀ BẮP NƯỚNG,HẠT HẠNH NHÂN VÀ BẮP NƯỚNG,0.0,0.0,0,1,0.397
+421_bo-ngot-baby_F_crop_1.jpg,weight,250 g,250 g,0.0,0.0,0,1,0.112
+421_bo-ngot-baby_F_crop_2.jpg,date,30/01/2024,30/01/2024,0.0,0.0,0,1,0.161
+421_bo-ngot-baby_F_crop_3.jpg,date,02/02/2024,02/02/2024,0.0,0.0,0,1,0.161
+422_cai-ngot-baby_F_crop_0.jpg,name,Cải ngọt baby,Cải ngọt baby,0.0,0.0,0,1,0.22
+422_cai-ngot-baby_F_crop_1.jpg,weight,250 g,250 g,0.0,0.0,0,1,0.115
+423_ngon-kho-qua-rung_F_crop_1.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.113
+424_dui-ga-thao-khop_F_crop_0.jpg,name,Đùi Gà Tháo Khớp,Đùi Gà Tháo Khớp,0.0,0.0,0,1,0.275
+424_dui-ga-thao-khop_F_crop_1.jpg,date,27/01/2024,27/01/2024,0.0,0.0,0,1,0.16
+424_dui-ga-thao-khop_F_crop_2.jpg,date,01/02/2024,01/02/2024,0.0,0.0,0,1,0.158
+427_hung-lui_F_crop_2.jpg,date,29-01-2024,29-01-12024,0.125,1.0,1,0,0.169
+427_hung-lui_F_crop_4.jpg,weight,50 g,50 9,0.25,0.5,1,0,0.1
+428_hanh-la_F_crop_1.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.112
+428_hanh-la_F_crop_2.jpg,date,30/01/2024,30/01/2024,0.0,0.0,0,1,0.167
+428_hanh-la_F_crop_3.jpg,date,4 ngày kể từ ngày đóng gói,4 ngày kể từ ngày đóng gói,0.0,0.0,0,1,0.418
+429_ca-chi-vang-chay-toi_F_crop_0.jpg,name,Cái Chỉ Vàng Cháy Tỏi,Cá Chỉ Vàng Cháy Tiên,0.19047619047619047,0.4,4,0,0.368
+429_ca-chi-vang-chay-toi_F_crop_1.jpg,date,20/01/2024,20/01/2024,0.0,0.0,0,1,0.167
+429_ca-chi-vang-chay-toi_F_crop_2.jpg,date,20/01/2025,20/01/2025,0.0,0.0,0,1,0.164
+430_nho-vang_F_crop_1.jpg,brand,nutty,LUEU,0.8,1.0,4,0,0.096
+430_nho-vang_F_crop_2.jpg,date,09/12/2023,09/12/2023,0.0,0.0,0,1,0.166
+430_nho-vang_F_crop_3.jpg,date,29/01/2024,29/01/2024,0.0,0.0,0,1,0.162
+430_nho-vang_F_crop_4.jpg,date,09/12/2024,09/12/2024,0.0,0.0,0,1,0.159
+431_hat-bi-nguyen-vo_F_crop_1.jpg,name,Hạt bí nguyên vỏ nướng tự nhiên,nguyên Hạt bí vỏ nƯỚNG tự nhiên,0.3870967741935484,0.2857142857142857,12,0,0.474
+431_hat-bi-nguyen-vo_F_crop_2.jpg,date,15/12/2024,15/02/2024,0.125,1.0,1,0,0.164
+431_hat-bi-nguyen-vo_F_crop_3.jpg,date,15/02/2025,15/02/2025,0.0,0.0,0,1,0.158
+432_trail-mix-vi-so-co-la_F_crop_0.jpg,brand,nutty,nuuy,0.4,1.0,2,0,0.093
+432_trail-mix-vi-so-co-la_F_crop_2.jpg,date,17/01/2024,17/01/2024,0.0,0.0,0,1,0.16
+432_trail-mix-vi-so-co-la_F_crop_3.jpg,date,17/01/2025,17/01/2025,0.0,0.0,0,1,0.159
+433_mat-ong-hoa-vai-thieu_F_crop_0.jpg,name,MẬT ONG HOA VẢI THIỀU,MẬT ONG HOA VẢI THIỀU,0.0,0.0,0,1,0.332
+434_trai-cay-say-thap-cam_F_crop_0.jpg,name,TRÁI CÂY SẤY THẬP CẨM,TRÁI THẬP CÂY CẤM SẤY,0.6190476190476191,0.8,13,0,0.377
+435_keo-huong-dau-tay_D_crop_0.jpg,brand,YẾN NHUNG,NHUNG YẾN,0.8888888888888888,1.0,8,0,0.192
+436_man-say-deo_F_crop_0.jpg,name,MẬN SẤY DẺO Từ 100% mận tươi,SẤY MẬN DẺO Từ 100% mộn tươi,0.25925925925925924,0.42857142857142855,7,0,0.516
+438_thanh-long-say-deo_F_crop_0.jpg,name,THANH LONG SẤY DẺO Từ 100% thanh long tươi,LONG SẤY THANH Liệi Từ 100% thanh long tươi,0.3902439024390244,0.3333333333333333,16,0,0.688
+440_tuogn-cham-thit-nuong_F_crop_3.jpg,weight,450 g,450 g,0.0,0.0,0,1,0.114
+441_bot-khuc-bach_F_crop_0.jpg,brand,BENUSCream,BENUSSTem,0.3,1.0,3,0,0.155
+442_bun-tuoi-kho_F_crop_2.jpg,weight,200g,200 G,0.25,2.0,1,0,0.116
+445_banh-bong-la-huong-com-dua_F_crop_0.jpg,brand,HURA deli,HUKAI HURA,0.6666666666666666,1.0,6,0,0.175
+445_banh-bong-la-huong-com-dua_F_crop_1.jpg,weight,168 g,168 g,0.0,0.0,0,1,0.114
+447_banh-trang_F_crop_2.jpg,weight,250 g,250 g,0.0,0.0,0,1,0.113
+449_tra-sua-matcha_F_crop_0.jpg,brand,Cozy,Cozy,0.0,0.0,0,1,0.093
+449_tra-sua-matcha_F_crop_2.jpg,weight,306 g,306 g,0.0,0.0,0,1,0.114
+450_lipton_F_crop_0.jpg,brand,Lipton,Lipton,0.0,0.0,0,1,0.115
+450_lipton_F_crop_2.jpg,weight,192 g,192 g,0.0,0.0,0,1,0.113
+451_ca-phe-sua-vinacafe_F_crop_0.jpg,brand,Vinacafe,VIVAMEY&,0.625,1.0,5,0,0.137
+452_banh-trang-goi-cuon_F_crop_1.jpg,weight,280 g,280 9,0.2,0.5,1,0,0.111
+453_banh-trang-dua-nuong_F_crop_0.jpg,brand,PHƯƠNG NGUYEN,1 PHUONG NGUYEN,0.3076923076923077,1.0,4,0,0.244
+453_banh-trang-dua-nuong_F_crop_2.jpg,brand,PHƯƠNG NGUYÊN,PHƯƠNG NGUYÊN,0.0,0.0,0,1,0.201
+453_banh-trang-dua-nuong_F_crop_3.jpg,weight,45 g,45 g,0.0,0.0,0,1,0.102
+454_ca-phe-sua-da-ong-bau_F_crop_0.jpg,brand,ÔNG BẦU SỐNG THẬT CÀ PHÊ THẬT,ÔNG SỐNG THẬT BẦU Phê THẬT,0.2413793103448276,0.2857142857142857,7,0,0.397
+454_ca-phe-sua-da-ong-bau_F_crop_1.jpg,name,CÀ PHÊ SỮA ĐÁ TƯƠI MỚI,CÀ TƯƠI SỮA PHÊ MỚI ĐÁ,0.5909090909090909,0.6666666666666666,13,0,0.355
+456_tra-vi-vai-va-huong-hoa-lai_F_crop_0.jpg,name,TRÀ VỊ VẢI VÀ HƯƠNG HOA LÀI,TRÀ Vị VẢI VÀ HƯƠNG HOA LÀI,0.0,0.0,0,1,0.424
+456_tra-vi-vai-va-huong-hoa-lai_F_crop_1.jpg,brand,NESTEA,NESTEA,0.0,0.0,0,1,0.119
+457_bot-ngot_F_crop_0.jpg,brand,VEDAN,VEOAN,0.2,1.0,1,0,0.107
+457_bot-ngot_F_crop_1.jpg,name,Bột ngọt,Bột ngọt,0.0,0.0,0,1,0.15
+457_bot-ngot_F_crop_2.jpg,weight,100 g,100 Q,0.2,0.5,1,0,0.114
+459_snack-va-dau-thap-cam_F_crop_0.jpg,brand,TânTân,Tâu Tân,0.3333333333333333,2.0,2,0,0.14
+460_pocky_F_crop_0.jpg,brand,Pocky,DOCKY,0.2,1.0,1,0,0.108
+460_pocky_F_crop_2.jpg,weight,40 g,40 g,0.0,0.0,0,1,0.102
+461_lap-xuong_B_crop_0.jpg,date,01/01/2025,01/01/2025,0.0,0.0,0,1,0.16
+461_lap-xuong_B_crop_1.jpg,date,01/07/2025,01/07/2025,0.0,0.0,0,1,0.158
+461_lap-xuong_B_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.112
+465_nuoc-ep-cam_F_crop_0.jpg,brand,Vinamilk,Vinamik,0.125,1.0,1,0,0.125
+465_nuoc-ep-cam_F_crop_1.jpg,name,NƯỚC ÉP CAM,NƯỚC EPCAM,0.18181818181818182,0.6666666666666666,2,0,0.169
+469_lipton_F_crop_1.jpg,name,trà vị ĐÀO,trà vị ĐÀO,0.0,0.0,0,1,0.188
+471_dau-phong-da-ca-cot-dua_F_crop_2.jpg,weight,270 G,270 G,0.0,0.0,0,1,0.114
+472_bun-tuoi-kho_F_crop_2.jpg,weight,200g,200 g,0.25,2.0,1,0,0.112
+473_banh-afc_F_crop_0.jpg,brand,KINH DO,KINH DO,0.0,0.0,0,1,0.139
+473_banh-afc_F_crop_1.jpg,brand,AFC,AFC,0.0,0.0,0,1,0.086
+473_banh-afc_F_crop_3.jpg,date,060326,060326,0.0,0.0,0,1,0.153
+473_banh-afc_F_crop_4.jpg,weight,172g,172 g,0.25,2.0,1,0,0.129
+474_tra-sua-tran-chau_L_crop_0.jpg,brand,HILLWAY,HILLLWAYY,0.2857142857142857,1.0,2,0,0.159
+474_tra-sua-tran-chau_L_crop_1.jpg,date,30.05.24,30.05.24,0.0,0.0,0,1,0.137
+474_tra-sua-tran-chau_L_crop_2.jpg,date,08.10.25,08.10.25,0.0,0.0,0,1,0.134
+475_tra-dao-huong-cam-sa_F_crop_1.jpg,name,Trà Đào hương Cam Sả,Trà Cam hương Đào Sả,0.3,0.4,6,0,0.319
+475_tra-dao-huong-cam-sa_F_crop_3.jpg,weight,88g,88 g,0.3333333333333333,2.0,1,0,0.107
+476_tra-vi-chanh_F_crop_1.jpg,brand,NESTEA,NESTEA,0.0,0.0,0,1,0.123
+477_mien_F_crop_1.jpg,weight,210g,210 g,0.25,2.0,1,0,0.129
+478_tra-dao_F_crop_0.jpg,brand,Vinamilk,Vinamik,0.125,1.0,1,0,0.167
+478_tra-dao_F_crop_1.jpg,name,ĐÀO GIÒN NGỌT,ĐÀO GIÒN NGỌT,0.0,0.0,0,1,0.229
+479_banh-chocopie-vi-cacao_F_crop_1.jpg,name,BÁNH CHOCOPIE VỊ CACAO,BÁNH CHOCOGIE VỊ CACAO,0.045454545454545456,0.25,1,0,0.332
+480_rong-bien-cuon-com_F_crop_2.jpg,date,03.03.2025,,1.0,1.0,10,0,0.02
+480_rong-bien-cuon-com_F_crop_3.jpg,date,03.03.2026,,1.0,1.0,10,0,0.022
+483_banh-trang-dua-nuong_F_crop_0.jpg,brand,PHUONG NGUYEN,PHUONG NGUYEN,0.0,0.0,0,1,0.2
+483_banh-trang-dua-nuong_F_crop_1.jpg,name,Bánh Tráng Dừa Nướng,Bánh Tráng Dừa Nướng,0.0,0.0,0,1,0.406
+483_banh-trang-dua-nuong_F_crop_2.jpg,brand,PHƯƠNG NGUYÊN,PHƯỜNG NGUYÊN,0.07692307692307693,0.5,1,0,0.207
+484_bun-tuoikho_B_crop_0.jpg,date,15/02/2025,15/02/2025,0.0,0.0,0,1,0.158
+484_bun-tuoikho_B_crop_1.jpg,date,15/02/2027,15/02/2027,0.0,0.0,0,1,0.157
+485_ca-phe-sua-da-ong-bau_R_crop_1.jpg,name,CÀ PHÊ SỮA ĐÁ TƯƠI MỚI,CÀ TƯƠI SỮA PHÊ MỚI ĐÁ,0.5909090909090909,0.6666666666666666,13,0,0.356
+485_ca-phe-sua-da-ong-bau_R_crop_2.jpg,weight,240 g,240 g,0.0,0.0,0,1,0.123
+486_vinamilk-sua-dinh-duong-co-duong_F_crop_0.jpg,brand,VINAMILK,VINAMILK,0.0,0.0,0,1,0.135
+486_vinamilk-sua-dinh-duong-co-duong_F_crop_1.jpg,name,SỮA DINH DƯỠNG CÓ ĐƯỜNG,SỮA DINH DU DUNG DƯỠNG CÓ ĐƯỜNG,0.34782608695652173,0.4,8,0,0.456
+486_vinamilk-sua-dinh-duong-co-duong_F_crop_2.jpg,weight,220ml,220 ml,0.2,2.0,1,0,0.201
+487_banh-chocopie-vi-cacao_T_crop_0.jpg,brand,ORION,ORION,0.0,0.0,0,1,0.113
+487_banh-chocopie-vi-cacao_T_crop_1.jpg,name,BÁNH CHOCOPIE VỊ CACAO,BÁNH CHOCOPE VỊ CACAO,0.045454545454545456,0.25,1,0,0.324
+487_banh-chocopie-vi-cacao_T_crop_2.jpg,date,11.11.24,11.11.24,0.0,0.0,0,1,0.137
+487_banh-chocopie-vi-cacao_T_crop_3.jpg,date,12 THÁNG KỂ TỪ NGÀY SẢN XUẤT,12 THÁNG KỂ TỪ NGÀY SẢN XUẤT,0.0,0.0,0,1,0.431
+488_tra-sua-truyen-thong_F_crop_0.jpg,name,TRÀ SỮA TRUYỀN THỐNG,TRUYỀN TRÀ SỮA THỐNG,0.5,0.5,10,0,0.325
+488_tra-sua-truyen-thong_F_crop_1.jpg,weight,170 g,170 g,0.0,0.0,0,1,0.111
+489_granola_F_crop_1.jpg,date,19/07/2022,0909.2024,0.5,1.0,4,0,0.146
+490_bot-can-tay_F_crop_0.jpg,weight,72g,72 g,0.3333333333333333,2.0,1,0,0.102
+490_bot-can-tay_F_crop_2.jpg,brand,Goce.vn,Gocem,0.42857142857142855,1.0,3,0,0.103
+491_xoai-say-deo_F_crop_1.jpg,name,Xoài Sấy Dẻo,Xoài Sấy Dẻo,0.0,0.0,0,1,0.208
+491_xoai-say-deo_F_crop_2.jpg,weight,500 g,500 g,0.0,0.0,0,1,0.112
+492_th-true-milk_F_crop_2.jpg,weight,110 ml,110 ml,0.0,0.0,0,1,0.126
+493_khoai-lang-vang-say-gion_F_crop_0.jpg,brand,L'ANGFARM,LENGERAY,0.625,1.0,5,0,0.134
+493_khoai-lang-vang-say-gion_F_crop_2.jpg,weight,350 g,350 9,0.2,0.5,1,0,0.115
+494_bot-matcha_F_crop_1.jpg,name,BỘT MATCHA,ĐỘT MATCHA,0.1,0.5,1,0,0.173
+494_bot-matcha_F_crop_2.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.111
+495_oatside_F_crop_0.jpg,brand,OATSIDE,II U,0.8571428571428571,2.0,6,0,0.107
+497_banh-sua-socola_F_crop_0.jpg,name,Bánh sữa Sôcôla,Bánh Sữa SOGOLA,0.2,0.3333333333333333,3,0,0.245
+498_dao-tuoi_F_crop_0.jpg,name,ĐÀO TƯƠI,ĐÀO TƯỜI,0.125,0.5,1,0,0.158
+499_banh-phong-sua_F_crop_0.jpg,name,Bánh Phồng Sữa,Bánh Phồng Sươ,0.14285714285714285,0.3333333333333333,2,0,0.231
+499_banh-phong-sua_F_crop_2.jpg,weight,220 g,220 g,0.0,0.0,0,1,0.112
+501_tra-atiso-hoa-cuc_F_crop_1.jpg,weight,90 gram,90 gam,0.14285714285714285,0.5,1,0,0.131
+502_tra-hoa-cuc-chi_F_crop_0.jpg,name,TRÀ HOA CÚC CHI,TRÀ HOA CÚC CHI,0.0,0.0,0,1,0.259
+502_tra-hoa-cuc-chi_F_crop_1.jpg,weight,100g,100 g 1,0.75,3.0,3,0,0.144
+503_sua-chua-thanh-trung_F_crop_1.jpg,brand,Vinamilk EST 1976,Vinamilk EST 1976,0.0,0.0,0,1,0.256
+503_sua-chua-thanh-trung_F_crop_2.jpg,name,SỮA CHUA UỐNG THANH TRÙNG,SỮA THANH CHUA TRÙNG UỐNG,0.56,0.8,14,0,0.371
+504_kho-heo-chay-toi_F_crop_1.jpg,name,Khô Heo CHÁY TỎI,Khô Hoo CHÁY TỎI,0.0625,0.25,1,0,0.266
+506_hanh-nhan-rang-moc_F_crop_0.jpg,name,HẠNH NHÂN RANG MỘC,HẠNH NHÂN RANG MỘC,0.0,0.0,0,1,0.286
+506_hanh-nhan-rang-moc_F_crop_1.jpg,weight,500g,500 5008,1.25,2.0,5,0,0.164
+506_hanh-nhan-rang-moc_F_crop_2.jpg,weight,250g,250 2508 g,1.5,3.0,6,0,0.199
+509_tra-trai-cay-nhiet-doi_F_crop_0.jpg,brand,trẫy ninì,trấy ning,0.2222222222222222,1.0,2,0,0.162
+509_tra-vi-chanh_F_crop_0.jpg,name,TRÀ VỊ CHANH,TRÀ VỊ CHANH,0.0,0.0,0,1,0.222
+509_tra-vi-chanh_F_crop_1.jpg,weight,196 g,194 g,0.2,0.5,1,0,0.115
+510_tra-trai-cay-nhiet-doi_B_crop_0.jpg,brand,trấy ninì,trấy minh,0.2222222222222222,0.5,2,0,0.178
+510_tra-trai-cay-nhiet-doi_B_crop_1.jpg,date,26/12/2024,26/12/2024,0.0,0.0,0,1,0.161
+510_tra-trai-cay-nhiet-doi_B_crop_2.jpg,date,26/12/2025,26/12/2025,0.0,0.0,0,1,0.166
+511_cafe-pho_F_crop_3.jpg,weight,160 g,160 g,0.0,0.0,0,1,0.112
+512_cafe-pho_R_crop_0.jpg,brand,MacCoffee Café PHỐ,Maccoffe Café PHỐ,0.05555555555555555,0.3333333333333333,1,0,0.29
+513_so-co-la-trang_F_crop_1.jpg,name,SÔ-CÔ-LA TRẮNG THANH LONG & MATCHA,SÔ-CÔ---LA THANH LONG TRẮNG & MATCHA,0.3225806451612903,0.4,10,0,0.526
+514_nuoc-cot-bun-rieu_F_crop_0.jpg,name,NƯỚC CỐT BÚN RIÊU,NƯỚC CỐT BÚN RIÊU,0.0,0.0,0,1,0.279
+514_nuoc-cot-bun-rieu_F_crop_1.jpg,weight,138 g,138 g,0.0,0.0,0,1,0.117
+516_cappuccino-sau-rieng_F_crop_2.jpg,weight,222 g,222 g,0.0,0.0,0,1,0.119
+517_gia-vi-tiem-ga_F_crop_0.jpg,name,Gia Vị Tiềm Gà,Gia Vị Tiên Cà,0.21428571428571427,0.5,3,0,0.241
+518_gia-vi-tiem-ga-hat-sen_F_crop_0.jpg,name,Gia Vị Tiềm Gà Hạt Sen,Gia Vị Tiễn Cà Hạt Sen,0.13636363636363635,0.3333333333333333,3,0,0.353
+518_gia-vi-tiem-ga-hat-sen_F_crop_1.jpg,weight,200 g,200 g,0.0,0.0,0,1,0.115
+519_so-co-la-den_F_crop_1.jpg,name,SÔ-CÔ-LA ĐEN,ĐEN,0.7,0.5,7,0,0.094
+519_so-co-la-den_F_crop_2.jpg,weight,60 G,60 G,0.0,0.0,0,1,0.106
+520_banh-dua-nuong_F_crop_1.jpg,name,BÁNH DỪA NƯỚNG,ĐÁNH DỪA NƯỚNG,0.07142857142857142,0.3333333333333333,1,0,0.238
+521_vit-tiem_F_crop_0.jpg,brand,Ông Chà Và,Ông Chà Và,0.0,0.0,0,1,0.185
+522_nuoc-cot-bun-mam_F_crop_0.jpg,name,NƯỚC CỐT BÚN MẮM,NƯỚC CỐT BÚN MẮM,0.0,0.0,0,1,0.263
+523_bot-banh-quay_F_crop_0.jpg,brand,MIKKO,MKKO,0.2,1.0,1,0,0.09
+523_bot-banh-quay_F_crop_1.jpg,name,Bột Bánh Quẩy,Bán Bánh Ohâi,0.46153846153846156,0.6666666666666666,6,0,0.225
+523_bot-banh-quay_F_crop_2.jpg,weight,350 g,350 g,0.0,0.0,0,1,0.111
+524_bot-khuc-bach_F_crop_0.jpg,name,BỘT KHÚC BẠCH,BỘT KHÚC BẠCH,0.0,0.0,0,1,0.221
+524_bot-khuc-bach_F_crop_1.jpg,brand,BENUSCream,BENUSCom,0.3,1.0,3,0,0.138
+524_bot-khuc-bach_F_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.114
+525_keo-dua_F_crop_0.jpg,brand,COCOLAND,COCOLAND,0.0,0.0,0,1,0.142
+525_keo-dua_F_crop_1.jpg,brand,xuan thanh,xuan thanh,0.0,0.0,0,1,0.177
+525_keo-dua_F_crop_3.jpg,weight,375g,375 g,0.25,2.0,1,0,0.112
+528_banh-dau-xanh-rong-vang-hoang-gia_B_crop_1.jpg,weight,300 g,300 g,0.0,0.0,0,1,0.112
+528_banh-dau-xanh-rong-vang-hoang-gia_B_crop_2.jpg,date,01/12/2025,01/12/2025,0.0,0.0,0,1,0.159
+529_banh-dau-xanh-rong-vang-hoang-gia_R_crop_0.jpg,date,02.04.2025,02.04.2025,0.0,0.0,0,1,0.159
+529_banh-dau-xanh-rong-vang-hoang-gia_R_crop_1.jpg,date,02.11.2025,02.11.2025,0.0,0.0,0,1,0.159
+529_banh-dau-xanh-rong-vang-hoang-gia_R_crop_2.jpg,weight,190 g,LỌO g,0.6,0.5,3,0,0.114
+532_banh-dau-xanh_F_crop_1.jpg,brand,RỒNG VÀNG,RỒNG VÀNG,0.0,0.0,0,1,0.17
+533_keo-thap-cam_F_crop_1.jpg,name,KẸO THẬP CẨM,KẸU THẤP LẨM,0.25,1.0,3,0,0.214
+533_keo-thap-cam_F_crop_2.jpg,weight,450 g,450 g,0.0,0.0,0,1,0.124
+534_keo-huong-dau-tay_B_crop_0.jpg,brand,YẾN NHUNG,NHUNG YẾN,0.8888888888888888,1.0,8,0,0.161
+535_banh-dau-xanh_R_crop_1.jpg,date,20/10/2025,20/11/2025,0.125,1.0,1,0,0.164
+536_keo-huong-dau-tay_F_crop_1.jpg,name,KẸO HƯƠNG DÂU TÂY,KẸO DÂU TÂY,0.35294117647058826,0.25,6,0,0.193
+537_keo-huong-dau-tam_F_crop_0.jpg,name,KẸO HƯƠNG DÂU TẰM,KẸO DÂU TẢM,0.4117647058823529,0.5,7,0,0.199
+538_bot-gia-vi-ngu-vi-huong_F_crop_0.jpg,brand,Dh Foods,Dh Foods,0.0,0.0,0,1,0.154
+538_bot-gia-vi-ngu-vi-huong_F_crop_1.jpg,name,Bột Gia Vị Ngũ Vị Hương,Bột Gia Vị Ngữ Vị Hương,0.043478260869565216,0.16666666666666666,1,0,0.367
+539_bot-gia-vi-ngu-vi-huong_B_crop_0.jpg,brand,Dh Foods,Dh Foods,0.0,0.0,0,1,0.15
+539_bot-gia-vi-ngu-vi-huong_B_crop_1.jpg,date,10 02 25,10 02 25,0.0,0.0,0,1,0.161
+539_bot-gia-vi-ngu-vi-huong_B_crop_2.jpg,date,10 08 26,10 08 26,0.0,0.0,0,1,0.163
+540_soda_F_crop_2.jpg,weight,250g,250 g,0.25,2.0,1,0,0.111
+542_gia-vi-uop-thit-mac-mat_F_crop_0.jpg,brand,Dh Foods,Dh Foods,0.0,0.0,0,1,0.153
+542_gia-vi-uop-thit-mac-mat_F_crop_1.jpg,name,Gia Vị Ướp Thịt Mắc Mật,Gia Vị Ướp Thịt Mắc Mật,0.0,0.0,0,1,0.371
+543_gia-vi-uop-thi-mac-mat_B_crop_2.jpg,date,19 12 24,19 12 24,0.0,0.0,0,1,0.164
+543_gia-vi-uop-thi-mac-mat_B_crop_3.jpg,date,19 06 26,19 06 26,0.0,0.0,0,1,0.161
+544_gia-vi-uop-thit-nuong_F_crop_0.jpg,brand,Dh Foods,Dh Foods,0.0,0.0,0,1,0.154
+544_gia-vi-uop-thit-nuong_F_crop_1.jpg,name,Gia Vị Ướp Thịt Nướng,Gia Vị Ướp Thịt Nướng,0.0,0.0,0,1,0.356
+546_so-co-la-phu-dua_F_crop_1.jpg,date,1 năm kể từ ngày sản xuất,1 năm kể từ ngày sản xuất,0.0,0.0,0,1,0.421
+546_so-co-la-phu-dua_F_crop_2.jpg,date,03/02/2025,05/02/2025,0.125,1.0,1,0,0.166
+547_banh-dua-nuong_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.15
+548_so-co-la-nhan-kem-ca-phe_F_crop_0.jpg,weight,48 g,48 g,0.0,0.0,0,1,0.105
+548_so-co-la-nhan-kem-ca-phe_F_crop_1.jpg,name,SÔ CÔ LA NHÂN KEM CÀ PHÊ,SÔ CÔLA NHÂN KEM CÀ PHÊ,0.041666666666666664,0.2857142857142857,1,0,0.381
+549_socola-hat-sen_B_crop_1.jpg,name,Sôcôla Hạt sen,Sôcôla Hạt sen,0.0,0.0,0,1,0.226
+550_socola-den_B_crop_1.jpg,weight,58 g,58 g,0.0,0.0,0,1,0.108
+553_ca-phe-hoa-tan_F_crop_2.jpg,weight,306 g,306 g,0.0,0.0,0,1,0.113
+555_keo-thap-cam_D_crop_0.jpg,brand,YẾN NHUNG,YẾN NHUNG,0.0,0.0,0,1,0.165
+555_keo-thap-cam_D_crop_1.jpg,name,KẸO THẬP CẨM,KẸO THẬP CẤM,0.08333333333333333,0.3333333333333333,1,0,0.21
+556_keo-huong-dau-tam_B_crop_0.jpg,brand,YẾN NHUNG,NHUNG YẾN,0.8888888888888888,1.0,8,0,0.163
+556_keo-huong-dau-tam_B_crop_1.jpg,name,KẸO HƯƠNG DÂU TẰM,KẸO HƯƠNG DÂU TẢM,0.058823529411764705,0.25,1,0,0.273
+560_lau-kim-chi_F_crop_0.jpg,brand,O'Food,Oifod,0.4,1.0,2,0,0.114
+560_lau-kim-chi_F_crop_2.jpg,name,Sốt Lẩu Hoàn Chỉnh Lẩu Kim Chi,Sốt Lầu Hoàn Chỉnh Lầu Kim Chi,0.06666666666666667,0.2857142857142857,2,0,0.462
+560_lau-kim-chi_F_crop_3.jpg,weight,180 g,180 g,0.0,0.0,0,1,0.115
+563_sinh-to-viet-quoc_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.149
+563_sinh-to-viet-quoc_F_crop_2.jpg,weight,500 ml,500 ml,0.0,0.0,0,1,0.126
+564_tuong-ot-sieu-cay_F_crop_1.jpg,name,Tương ớt SIÊU CAY,Tương Ớt SIÊU CAY,0.0,0.0,0,1,0.289
+564_tuong-ot-sieu-cay_F_crop_2.jpg,weight,330g,350 g,0.5,2.0,2,0,0.121
+565_sinh-to-xoai_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.155
+565_sinh-to-xoai_F_crop_1.jpg,name,Sinh Tố Xoài,Sinh Tố Xoài,0.0,0.0,0,1,0.214
+565_sinh-to-xoai_F_crop_2.jpg,weight,500 ml,500 ml,0.0,0.0,0,1,0.131
+566_sinh-to-mang-cau_F_crop_1.jpg,name,Sinh Tố Mãng Cầu,Sinh Tố Măng Cầu,0.0625,0.25,1,0,0.269
+567_gia-vi-rac-com_F_crop_1.jpg,name,Gia Vị Rắc Cơm,Gia Vị Rắc Cơm,0.0,0.0,0,1,0.297
+568_gao-lua-tom-nang-huong_F_crop_0.jpg,brand,Kim Thiên Lộc,Kim Thiên LỘC,0.0,0.0,0,1,0.264
+568_gao-lua-tom-nang-huong_F_crop_1.jpg,name,gạo lúa tôm Nàng Hương,gạo Lúa tôm Nàng Hương,0.0,0.0,0,1,0.439
+569_tuong-den_F_crop_1.jpg,name,TƯƠNG ĐEN,TƯƠNG ĐEN,0.0,0.0,0,1,0.18
+571_nho-chile-vang_F_crop_2.jpg,weight,330 g,330 g,0.0,0.0,0,1,0.125
+572_gao-huu-co-ecoba-huyet-rong_F_crop_2.jpg,weight,1 kg,1 kg,0.0,0.0,0,1,0.117
+574_ca-chai-nuong_B_crop_1.jpg,date,12 tháng kể từ ngày sản xuất.,12 tháng kể từ ngày sản xuất,0.034482758620689655,0.14285714285714285,1,0,0.454
+574_ca-chai-nuong_B_crop_2.jpg,weight,70 g.,70 g,0.2,0.5,1,0,0.102
+575_nep-sap_F_crop_0.jpg,date,24/03/2025,WISTERS,1.0,1.0,8,0,0.157
+575_nep-sap_F_crop_1.jpg,date,24/03/2026,094.04.2024 194.042024,2.0,2.0,16,0,0.312
+577_me-trang_F_crop_0.jpg,date,24/03/2025,24/03/2025,0.0,0.0,0,1,0.169
+577_me-trang_F_crop_1.jpg,date,24/03/2026,24/03/2026,0.0,0.0,0,1,0.162
+577_me-trang_F_crop_4.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.122
+578_bun-tuoi_F_crop_0.jpg,brand,Nuffam,Nuifam,0.16666666666666666,1.0,1,0,0.122
+579_che-hat-sen-thap-sen_F_crop_1.jpg,brand,HỒNG HÙNG TUẤN,HỒNG HÙNG TUẤN,0.0,0.0,0,1,0.236
+580_me-trang-khong-vo_F_crop_0.jpg,date,23/12/2024,23/12/2024,0.0,0.0,0,1,0.161
+580_me-trang-khong-vo_F_crop_1.jpg,date,23/12/2025,23/12/2025,0.0,0.0,0,1,0.165
+580_me-trang-khong-vo_F_crop_2.jpg,brand,pmt,pmt,0.0,0.0,0,1,0.081
+580_me-trang-khong-vo_F_crop_3.jpg,name,MÈ TRẮNG KHÔNG VỎ,MÈ TRẮNG KHÔNG VỎI,0.058823529411764705,0.25,1,0,0.285
+580_me-trang-khong-vo_F_crop_4.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.113
+581_mi-quang-kho_F_crop_0.jpg,date,06.02.2025,06.02.2025,0.0,0.0,0,1,0.161
+581_mi-quang-kho_F_crop_1.jpg,date,06.02.2027,06.02.2027,0.0,0.0,0,1,0.163
+582_mi-quang-kho_F_crop_0.jpg,name,Mì Quảng Khô,Mì Quảng Khô,0.0,0.0,0,1,0.213
+582_mi-quang-kho_F_crop_1.jpg,weight,300 g,300 g,0.0,0.0,0,1,0.115
+583_mi-rau-cu-tuoi_F_crop_0.jpg,brand,choice L,CHOICE L,0.0,0.0,0,1,0.154
+583_mi-rau-cu-tuoi_F_crop_1.jpg,name,MÌ RAU CỦ TƯƠI,MÌ RAU CỦ TƯƠI,0.0,0.0,0,1,0.257
+586_ca-trich_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.165
+586_ca-trich_F_crop_1.jpg,name,CÁ TRÍCH XẺ TẨM NƯỚNG,CÁ TRÍCH XẺ TẨM NƯỚNG,0.0,0.0,0,1,0.358
+588_bun-tuoi_B_crop_2.jpg,brand,Nuffam,Nuin,0.6666666666666666,1.0,4,0,0.103
+589_bun-tuoi_F_crop_2.jpg,brand,Hằng Nga,Hồng Nga,0.125,0.5,1,0,0.166
+589_bun-tuoi_F_crop_3.jpg,name,BÚN TƯƠI SẤY KHÔ,BÚN TƯƠI SẤY KHÔ,0.0,0.0,0,1,0.297
+590_gao-lut-hon-hop_F_crop_1.jpg,name,GẠO LỨT HỖN HỢP 10 LOẠI HẠT,GẠO LỚT HỖN HỢP 10 LOẠI HẠT,0.037037037037037035,0.14285714285714285,1,0,0.425
+590_gao-lut-hon-hop_F_crop_2.jpg,weight,1kg,1 kg,0.3333333333333333,2.0,1,0,0.102
+591_sua-tam_F_crop_0.jpg,brand,CHOICE L,CHOICE L,0.0,0.0,0,1,0.144
+591_sua-tam_F_crop_2.jpg,weight,950 g,950 g,0.0,0.0,0,1,0.123
+592_nuoc-rua-chen_F_crop_1.jpg,name,NƯỚC RỬA CHÉN HƯƠNG TRÀ XANH DƯA LƯỚI,NƯỚC RỬA CHÉN HƯƠNG TRÀ XANH DƯA LƯỚI,0.0,0.0,0,1,0.545
+592_nuoc-rua-chen_F_crop_2.jpg,weight,1kg,1 kg,0.3333333333333333,2.0,1,0,0.102
+592_nuoc-rua-chen_F_crop_3.jpg,weight,980 ml,980 ml,0.0,0.0,0,1,0.129
+594_bun-gao-lut_F_crop_1.jpg,name,Bún Gạo Lứt,Gạo Lứi Bán,0.8181818181818182,1.0,9,0,0.2
+594_bun-gao-lut_F_crop_2.jpg,weight,280 g,280 g,0.0,0.0,0,1,0.116
+595_banh-afc-vi-lua-mi_F_crop_4.jpg,weight,86 g,86 g,0.0,0.0,0,1,0.105
+596_sua-tam-hoa-anh-dao_B_crop_1.jpg,brand,PURITÉ,PURITÉ,0.0,0.0,0,1,0.116
+596_sua-tam-hoa-anh-dao_B_crop_2.jpg,weight,500 ml,500 ml,0.0,0.0,0,1,0.135
+597_sua-tam-hoa-anh-dao_F_crop_0.jpg,brand,PURITÉ,DURITÉ,0.16666666666666666,1.0,1,0,0.156
+598_sua-dau-nanh-fami-nguyen-chat_F_crop_0.jpg,name,SỮA ĐẬU NÀNH,SỮA ĐẬU NÀNH,0.0,0.0,0,1,0.281
+598_sua-dau-nanh-fami-nguyen-chat_F_crop_1.jpg,brand,SỮA ĐẬU NÀNH Fami,SỮA ĐẬU NÀNH fami,0.0,0.0,0,1,0.282
+598_sua-dau-nanh-fami-nguyen-chat_F_crop_2.jpg,weight,1 lít,1 lít,0.0,0.0,0,1,0.184
+600_cha-bong-heo_F_crop_0.jpg,brand,C&B FOOD RESTAURANT,C&B,0.8888888888888888,0.6666666666666666,16,0,0.09
+600_cha-bong-heo_F_crop_1.jpg,name,Chà bông HEO,Chà bông LEỞ,0.16666666666666666,0.3333333333333333,2,0,0.226
+601_cha-bong-heo_B_crop_0.jpg,name,Chà Bông Heo,Chà Bông Heo,0.0,0.0,0,1,0.229
+602_kho-heo-say-toi_F_crop_1.jpg,name,Khô heo sấy tỏi,Khô heo sấy tỏi,0.0,0.0,0,1,0.282
+602_kho-heo-say-toi_F_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.143
+604_kho-ga-la-chanh_F_crop_1.jpg,name,Khô gà lá chanh,Khô gà lá chanh,0.0,0.0,0,1,0.255
+604_kho-ga-la-chanh_F_crop_2.jpg,weight,100 g,100 g,0.0,0.0,0,1,0.143
+605_kho-ga-la-chanh_B_crop_0.jpg,name,Khô gà lá chanh,Khô gà lá chanh,0.0,0.0,0,1,0.252
+608_thit-bo-kho_F_crop_0.jpg,brand,Poso Thơm ngon-Tròn vị,P.00,0.9523809523809523,1.0,20,0,0.135
+608_thit-bo-kho_F_crop_2.jpg,weight,45 g,45 g,0.0,0.0,0,1,0.102
+609_thit-bo-kho_B_crop_2.jpg,date,15/03/25,15/03/25,0.0,0.0,0,1,0.141
+609_thit-bo-kho_B_crop_3.jpg,date,15/01/26,15/01/26,0.0,0.0,0,1,0.137
+610_bot-suong-sao-den_F_crop_1.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.105
+611_bot-suong-sao-den_B_crop_0.jpg,name,Bột Sương Sáo Đen,Bặt Sươn Sáo Đen,0.11764705882352941,0.5,2,0,0.274
+612_bot-rau-cau-deo_B_crop_0.jpg,name,Bột Rau Câu Dẻo,Bột Rau Câu Dẻo,0.0,0.0,0,1,0.254
+612_bot-rau-cau-deo_B_crop_1.jpg,date,06/08/24,06/08/24,0.0,0.0,0,1,0.136
+612_bot-rau-cau-deo_B_crop_2.jpg,date,05/08/26,05/08/26,0.0,0.0,0,1,0.136
+613_bot-rau-cau-deo_F_crop_2.jpg,weight,12g,12 g,0.3333333333333333,2.0,1,0,0.103
+614_chao-mon_F_crop_0.jpg,date,28/10/2024,28/10/2024,0.0,0.0,0,1,0.159
+614_chao-mon_F_crop_1.jpg,date,28/04/2026,28/04/2026,0.0,0.0,0,1,0.179
+614_chao-mon_F_crop_2.jpg,brand,Mikiri,Mikiri,0.0,0.0,0,1,0.118
+614_chao-mon_F_crop_3.jpg,name,Chao Môn,Chao Mồn,0.125,0.5,1,0,0.155
+616_bot-suong-sam_B_crop_0.jpg,name,BỘT SƯƠNG SÂM,BỘT SƯƠNG SẤM,0.07692307692307693,0.3333333333333333,1,0,0.221
+616_bot-suong-sam_B_crop_1.jpg,date,06/01/25,06/01/25,0.0,0.0,0,1,0.133
+616_bot-suong-sam_B_crop_2.jpg,date,05/01/27,05/01/2027,0.3333333333333333,1.0,2,0,0.168
+617_nuoc-tuong-dau-nanh_F_crop_0.jpg,brand,Maggi,Maggg,0.2,1.0,1,0,0.117
+621_nuoc-mam-nam-ngu_F_crop_2.jpg,brand,CHIN-SU FOODS,CHIN-SU FOODS,0.0,0.0,0,1,0.212
+621_nuoc-mam-nam-ngu_F_crop_3.jpg,brand,Nam Ngư,nam ngư,0.0,0.0,0,1,0.149
+621_nuoc-mam-nam-ngu_F_crop_4.jpg,name,NƯỚC MẮM,NƯỚC MẮM,0.0,0.0,0,1,0.151
+622_nuoc-mam-nam-ngu_F_crop_2.jpg,name,NƯỚC MẮM,NƯỚC MẮM,0.0,0.0,0,1,0.182
+623_hat-nem-tam-bao_F_crop_1.jpg,brand,Tam Bảo,Tâm Bảo,0.14285714285714285,0.5,1,0,0.152
+623_hat-nem-tam-bao_F_crop_2.jpg,brand,Neptune,Nepune,0.14285714285714285,1.0,1,0,0.127
+623_hat-nem-tam-bao_F_crop_3.jpg,weight,380 g,380 g,0.0,0.0,0,1,0.115
+624_muoi-say-i-ot_F_crop_0.jpg,brand,Sosal group,Sosal gráp,0.18181818181818182,0.5,2,0,0.174
+624_muoi-say-i-ot_F_crop_2.jpg,weight,500g,500 g,0.25,2.0,1,0,0.119
+626_hat-nem-cao-cap-nam-huong_F_crop_0.jpg,name,HẠT NÊM CAO CẤP NẤM HƯƠNG,HẠT NÊM CNO CẤM NẤM HƯƠNG,0.08,0.3333333333333333,2,0,0.419
+626_hat-nem-cao-cap-nam-huong_F_crop_1.jpg,brand,Maggi,Maggi,0.0,0.0,0,1,0.104
+626_hat-nem-cao-cap-nam-huong_F_crop_2.jpg,weight,55g,55 g,0.3333333333333333,2.0,1,0,0.109
+628_bot-ngot-miwon_F_crop_0.jpg,name,Mì chính - Bột ngọt,Mì chính - Bột ngọt,0.0,0.0,0,1,0.311
+628_bot-ngot-miwon_F_crop_3.jpg,weight,454 g,454 g,0.0,0.0,0,1,0.115
+629_th-true-milk-sua-tuoi-tiet-trung-co-duong_F_crop_2.jpg,weight,1L,1 L,0.5,2.0,1,0,0.097
+631_mi-y-xuc-xich-kieu-nhat_F_crop_1.jpg,name,MỲ Ý XÚC XÍCH KIỂU NHẬT,MỲ Ý XÚC XÍCH KIỂU NHẬT,0.0,0.0,0,1,0.375
+634_hat-dac-rim_F_crop_1.jpg,date,02 tháng khi bảo quản trong ngăn mát,02 tháng khi bảo Quản trong ngân mát,0.027777777777777776,0.125,1,0,0.544
+634_hat-dac-rim_F_crop_2.jpg,date,28/11/2024,đ&/11-1.24,0.5,1.0,4,0,0.158
+636_sua-trai-cay-nho-tu-nhien_F_crop_0.jpg,brand,TH true JUICE milk,TH true JUICE milk,0.0,0.0,0,1,0.285
+636_sua-trai-cay-nho-tu-nhien_F_crop_1.jpg,brand,MISTORI,MISTORI,0.0,0.0,0,1,0.128
+636_sua-trai-cay-nho-tu-nhien_F_crop_2.jpg,name,THỨC UỐNG SỮA TRÁI CÂY,SỮA THỨC TRÁI UỐNG CÂY,0.7272727272727273,0.8,16,0,0.348
+636_sua-trai-cay-nho-tu-nhien_F_crop_3.jpg,name,Thức Uống Sữa Trái Cây Nho Tự Nhiên,Nho Thúc Tự Uống Nhiên Sữa Trái Cây,0.7714285714285715,0.875,27,0,0.516
+636_sua-trai-cay-nho-tu-nhien_F_crop_4.jpg,weight,110 ml,110 ml,0.0,0.0,0,1,0.129
+637_hat-macca-viet_F_crop_0.jpg,date,25/09/2022,25/10/20222,0.375,1.0,3,0,0.172
+637_hat-macca-viet_F_crop_1.jpg,date,25/03/2023,,1.0,1.0,8,0,0.068
+638_dau-dua_F_crop_1.jpg,name,DẦU DỪA TINH KHIẾT,DẦU TINH KHIẾT DỪA,0.4444444444444444,0.5,8,0,0.29
+639_mat-ong-hoa-ca-phe_F_crop_2.jpg,date,24 tháng kể từ ngày sản xuất,24 tháng kể LỶ ngày sản xuất,0.07142857142857142,0.14285714285714285,2,0,0.432
+639_mat-ong-hoa-ca-phe_F_crop_3.jpg,date,14/01/24,14/01/24,0.0,0.0,0,1,0.15
+640_mat-ong-hoa-ca-phe_F_crop_4.jpg,weight,100ML,1000 M L,0.6,3.0,3,0,0.17
+641_tinh-bot-nghe_F_crop_1.jpg,name,TINH BỘT NGHỆ,TINH BỘT NGHỆ,0.0,0.0,0,1,0.244
+641_tinh-bot-nghe_F_crop_2.jpg,weight,250g,250 g,0.25,2.0,1,0,0.139
+642_bot-chuoi-xanh_F_crop_0.jpg,brand,ĐỨC KHÔI,HOND,1.0,1.0,8,0,0.117
+642_bot-chuoi-xanh_F_crop_1.jpg,name,BỘT CHUỐI XANH,BỘT CHUỐI XANH,0.0,0.0,0,1,0.232
+642_bot-chuoi-xanh_F_crop_2.jpg,brand,ĐỨC KHÔI,ĐỨC KHÔI,0.0,0.0,0,1,0.145
+642_bot-chuoi-xanh_F_crop_3.jpg,weight,500g,5009,0.25,1.0,1,0,0.094
+643_tra-tieu-thuc_F_crop_0.jpg,name,Trà Tiêu Thực,Trà Tiêu Thực,0.0,0.0,0,1,0.23
+643_tra-tieu-thuc_F_crop_1.jpg,weight,150 gam,150 gam,0.0,0.0,0,1,0.138
+645_tra-vai_F_crop_0.jpg,brand,Cozy,Coxy,0.25,1.0,1,0,0.111
+645_tra-vai_F_crop_1.jpg,name,TRÀ VẢI,TRÀ VẢI,0.0,0.0,0,1,0.151
+648_tra-bi-dao_F_crop_0.jpg,brand,WONDERFARM,VIDDERERY,0.6,1.0,6,0,0.164
+648_tra-bi-dao_F_crop_1.jpg,name,Trà Bí Đao,Trà Bí Đao,0.0,0.0,0,1,0.218
+652_tra-bi-dao_F_crop_0.jpg,date,250225,250225,0.0,0.0,0,1,0.132
+652_tra-bi-dao_F_crop_1.jpg,date,240226,240226,0.0,0.0,0,1,0.132
+653_tra-bi-dao_B_crop_0.jpg,date,250225,250025,0.16666666666666666,1.0,1,0,0.114
+653_tra-bi-dao_B_crop_1.jpg,date,240226,12/0025,0.6666666666666666,1.0,4,0,0.124
+654_hat-dieu-pho-mai_F_crop_2.jpg,date,10.04.2025,04.04.2025,0.2,1.0,2,0,0.171
+654_hat-dieu-pho-mai_F_crop_3.jpg,date,04.04.2026,04.04.2024,0.1,1.0,1,0,0.205
+655_hat-dieu-toi-ot_F_crop_0.jpg,brand,Vinahe CHẤT LƯỢNG TẠO NÊN UY TÍN,Vinahe CHẤT LƯỢNG TẠO NÊN UY TÍN,0.0,0.0,0,1,0.489
+655_hat-dieu-toi-ot_F_crop_2.jpg,date,02.05.2025,12.04.2025,0.2,1.0,2,0,0.168
+655_hat-dieu-toi-ot_F_crop_3.jpg,date,02.05.2026,04.05.2024,0.2,1.0,2,0,0.22
+656_dau-phong-da-ca_F_crop_0.jpg,brand,POCA,POCA,0.0,0.0,0,1,0.138
+657_mit-say_F_crop_1.jpg,name,MÍT SẤY,MÍT SẤY,0.0,0.0,0,1,0.163
+658_mit-say_B_crop_1.jpg,brand,we'natur,Wendur,0.2857142857142857,1.0,2,0,0.161
+659_trai-cay-say_F_crop_0.jpg,brand,rộprộp,rộp rộp,0.16666666666666666,2.0,1,0,0.166
+659_trai-cay-say_F_crop_2.jpg,weight,100g,100 g,0.25,2.0,1,0,0.123
+661_ca-phe-sua_F_crop_0.jpg,brand,HIGHLANDS COFFEE,CÔNG LOPERE,0.75,1.0,12,0,0.225
+661_ca-phe-sua_F_crop_2.jpg,weight,185 ml,185 ml,0.0,0.0,0,1,0.159
+663_vien-tay-toilet_B_crop_0.jpg,name,VIÊN TẨY TOILET,VIÊN TẨY TOIVETY,0.13333333333333333,0.3333333333333333,2,0,0.292
+663_vien-tay-toilet_B_crop_2.jpg,date,05 10 2024,05 10 2024,0.0,0.0,0,1,0.247
+663_vien-tay-toilet_B_crop_3.jpg,date,04 10 2029,04 10 2025,0.1,0.3333333333333333,1,0,0.191
+664_vien-tay-toilet_F_crop_0.jpg,name,VIÊN TẨY TOILET,VIÊN TẨY TOILLET,0.06666666666666667,0.3333333333333333,1,0,0.279
+664_vien-tay-toilet_F_crop_1.jpg,brand,3 BLOCKS,3 BLOCKKS,0.125,0.5,1,0,0.185
+666_khan-uot-khong-mui_D_crop_2.jpg,date,18/03/2025,18/03/2025,0.0,0.0,0,1,0.212
+666_khan-uot-khong-mui_D_crop_3.jpg,date,3 năm kể từ NSX,3 năm kể từ NSX,0.0,0.0,0,1,0.265
+667_khan-uotkhong-mui_D_crop_2.jpg,weight,40g,40 g,0.3333333333333333,2.0,1,0,0.102
+667_khan-uotkhong-mui_D_crop_3.jpg,date,18/03/2025,18/03/2025,0.0,0.0,0,1,0.17
+667_khan-uotkhong-mui_D_crop_4.jpg,date,3 năm kể từ NSX,3 năm kể từ NSX,0.0,0.0,0,1,0.274
+669_khan-uot-khong-mui_D_crop_0.jpg,brand,puri,puri,0.0,0.0,0,1,0.121
+669_khan-uot-khong-mui_D_crop_1.jpg,name,KHĂN ƯỚT KHÔNG MÙI 20 TỜ,KHĂN ƯỚT KHÔNG MÙI 20 TỜ,0.0,0.0,0,1,0.398
+669_khan-uot-khong-mui_D_crop_4.jpg,brand,Puri,puy,0.5,1.0,2,0,0.093
+669_khan-uot-khong-mui_D_crop_5.jpg,name,KHĂN ƯỚT KHÔNG MÙI 20 TỜ,KHÔNG KHĂN MÙI ƯỚT 20 TỜ,0.4583333333333333,0.6666666666666666,11,0,0.381
+670_bot-chien-gion_F_crop_1.jpg,name,BỘT CHIÊN GIÒN,BỘT CHIÊN GIÊN,0.07142857142857142,0.3333333333333333,1,0,0.26
+671_bot-chien-gion_F_crop_1.jpg,name,BỘT CHIÊN GIÒN,BỘT CHIÊN GIÒN,0.0,0.0,0,1,0.257
+673_baking-soda_F_crop_2.jpg,weight,453 g,453 g,0.0,0.0,0,1,0.131
+674_baking-soda_B_crop_2.jpg,date,31/12/2027,31/12/2027,0.0,0.0,0,1,0.167
+674_baking-soda_B_crop_3.jpg,date,31/12/2024,31/12/2024,0.0,0.0,0,1,0.159
+677_mi-ly-hao-hao_F_crop_0.jpg,brand,ACECOOK,LOSCOOK,0.42857142857142855,1.0,3,0,0.147
+677_mi-ly-hao-hao_F_crop_1.jpg,name,MÌ LY,MÌ LY,0.0,0.0,0,1,0.146
+677_mi-ly-hao-hao_F_crop_2.jpg,brand,Hảo Hảo,Hảo Hảo,0.0,0.0,0,1,0.186
+679_my-ly-hao-hao_F_crop_1.jpg,name,MÌ LY,MÌ LY,0.0,0.0,0,1,0.122
+681_mi-indomie_F_crop_2.jpg,weight,85 g,85 g,0.0,0.0,0,1,0.109
+682_mi-indomie_F_crop_0.jpg,brand,Indomie,Inromile,0.2857142857142857,1.0,2,0,0.168
+682_mi-indomie_F_crop_1.jpg,weight,85 g,85 g,0.0,0.0,0,1,0.101
+682_mi-indomie_F_crop_2.jpg,name,Mì Káo khô,khô Mì xảa,0.9,1.0,9,0,0.187
+683_mi-indomie_F_crop_1.jpg,date,17 11 2025,17 11 2025,0.0,0.0,0,1,0.202
+683_mi-indomie_F_crop_2.jpg,weight,85 g,85 g,0.0,0.0,0,1,0.112
+684_nuoc-uong-vi-sua-chua-goodmood_F_crop_1.jpg,brand,good mood,good mood,0.0,0.0,0,1,0.19
+686_nuoc-uong-vi-sua-chua-goodmood_B_crop_0.jpg,brand,good mood,900% mood,0.4444444444444444,0.5,4,0,0.222
+686_nuoc-uong-vi-sua-chua-goodmood_B_crop_1.jpg,name,NƯỚC UỐNG VỊ SỮA CHUA,NƯỚC UỐNG VỊ SỮA CHUA,0.0,0.0,0,1,0.347
+689_grass-jelly-drink_F_crop_1.jpg,name,Grass Jelly Drink,U,1.0,1.0,17,0,0.135
+689_grass-jelly-drink_F_crop_3.jpg,date,13/11/2024,13/11/2024,0.0,0.0,0,1,0.167
+689_grass-jelly-drink_F_crop_4.jpg,date,12/05/2026,12/05/2026,0.0,0.0,0,1,0.179
+690_nutri-boostf_F_crop_0.jpg,brand,nutriboost,nUT boos,0.3,2.0,3,0,0.182
+690_nutri-boostf_F_crop_1.jpg,weight,297 ml,29/1 m,0.3333333333333333,1.0,2,0,0.212
+695_dau-phong-da-ca-cot-dua_F_crop_1.jpg,name,ĐẬU PHỘNG DA CÁ CỐT DỪA,ĐẬU PHÚNG DAI CÁ CỐT DỮA,0.13043478260869565,0.5,3,0,0.436
+695_dau-phong-da-ca-cot-dua_F_crop_2.jpg,weight,270 G,270 G,0.0,0.0,0,1,0.127
+696_hat-dieu-original_F_crop_1.jpg,weight,170g,170 g,0.25,2.0,1,0,0.133
+697_hat-dieu-original_B_crop_2.jpg,weight,170 g,170 g,0.0,0.0,0,1,0.132
+698_dau-phong-nuoc-cot-dua_F_crop_1.jpg,name,Đậu phộng nước cốt dừa,Đậu nước phộng cốt đừa,0.5,0.6,11,0,0.384
+698_dau-phong-nuoc-cot-dua_F_crop_2.jpg,weight,135g,135 g,0.25,2.0,1,0,0.128
+700_banh-goute_F_crop_0.jpg,brand,ORION,ORION,0.0,0.0,0,1,0.14
+700_banh-goute_F_crop_1.jpg,name,Bánh Goute Hạt Dinh Dưỡng,Bánh Goute Hạt Dinh Dương,0.04,0.2,1,0,0.393
+700_banh-goute_F_crop_2.jpg,weight,"158,4 g",1584 g,0.14285714285714285,0.5,1,0,0.14
+701_banh-gote_D_crop_0.jpg,brand,ORION,ORION,0.0,0.0,0,1,0.112
+702_banh-xop-que_F_crop_0.jpg,brand,JOJO,Q 10,1.0,2.0,4,0,0.178
+702_banh-xop-que_F_crop_1.jpg,name,BÁNH XỐP QUE,BÁNH XỐP QUE,0.0,0.0,0,1,0.262
+703_banh-xop-que_B_crop_2.jpg,weight,70 g,70 g,0.0,0.0,0,1,0.105
+704_banh-quy-dua_F_crop_2.jpg,name,BÁNH Quy Dừa,BÁNH QUY DỪA,0.0,0.0,0,1,0.259
+705_banh-quy-dua_F_crop_1.jpg,weight,180 g,180 g,0.0,0.0,0,1,0.114
+705_banh-quy-dua_F_crop_2.jpg,weight,180 g,180 g,0.0,0.0,0,1,0.146
+706_ca-phe-sua-nong_F_crop_0.jpg,brand,MacCoffee Café PHỐ,Madofee PHỐ Café,0.6111111111111112,1.0,11,0,0.296
+706_ca-phe-sua-nong_F_crop_2.jpg,weight,160 g,160 g,0.0,0.0,0,1,0.116
+708_tra-huong-lai_F_crop_0.jpg,brand,PHUC LONG,PHUC LONG,0.0,0.0,0,1,0.171
+708_tra-huong-lai_F_crop_1.jpg,name,TRÀ HƯƠNG LÀI,TRÀ HƯƠNG LÀI,0.0,0.0,0,1,0.231
+708_tra-huong-lai_F_crop_2.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.121
+708_tra-huong-lai_F_crop_3.jpg,weight,50 g,50 g,0.0,0.0,0,1,0.103
+712_tra-vai-huong-hoa-hong_F_crop_2.jpg,name,Trà Vải hương Hoa hồng,Trà Vải hương Hoa hồng,0.0,0.0,0,1,0.364
+714_tra-vi-vai-va-huong-hoa-lai_F_crop_1.jpg,brand,NESTEA,NESTEA,0.0,0.0,0,1,0.165
+717_tra-gung_B_crop_1.jpg,name,HotGinger,Hotengr,0.3333333333333333,1.0,3,0,0.177
+717_tra-gung_B_crop_2.jpg,date,12/03/2025,12/03/2025,0.0,0.0,0,1,0.181
+717_tra-gung_B_crop_3.jpg,date,12/03/2027,12/03/2027,0.0,0.0,0,1,0.18
+718_milo_F_crop_0.jpg,brand,Nestle,Nestlé,0.16666666666666666,1.0,1,0,0.127
+718_milo_F_crop_1.jpg,brand,MILO,MILO,0.0,0.0,0,1,0.132
+722_kem-dac-co-duong_F_crop_0.jpg,brand,Hoàn Hảo,Hoàn Háo,0.125,0.5,1,0,0.197
+722_kem-dac-co-duong_F_crop_1.jpg,name,Kem Đặc Có Đường,Kem Đạo Cố Đường,0.1875,0.5,3,0,0.277
+722_kem-dac-co-duong_F_crop_2.jpg,weight,"1,27 kg",127 ka,0.2857142857142857,1.0,2,0,0.127
+722_kem-dac-co-duong_F_crop_3.jpg,name,Kem đặc có đường dùng để pha cà phê,đùng Kem để đặc pha có đường cà phê,0.6571428571428571,0.6666666666666666,23,0,0.543
+724_kem-dac-co-duong_F_crop_1.jpg,date,110325,11025,0.16666666666666666,1.0,1,0,0.116
+724_kem-dac-co-duong_F_crop_2.jpg,date,091225,09125,0.16666666666666666,1.0,1,0,0.116
+725_hat-chia_F_crop_0.jpg,brand,SUNRISE,SUNRISE,0.0,0.0,0,1,0.141
+725_hat-chia_F_crop_1.jpg,date,20/08/2024,30/03/2024,0.25,1.0,2,0,0.181
+725_hat-chia_F_crop_2.jpg,date,30/08/2027,30/03/2027,0.125,1.0,1,0,0.166
+725_hat-chia_F_crop_4.jpg,weight,300 g,300 g,0.0,0.0,0,1,0.142
+726_hat-chia_F_crop_3.jpg,name,HẠT CHIA,HẠT CHIA,0.0,0.0,0,1,0.181
+727_yen-mach-nep-cam_F_crop_0.jpg,brand,Yumfood,Quabe,0.8571428571428571,1.0,6,0,0.146
+731_milo_F_crop_0.jpg,brand,Nestle,Nestlé,0.16666666666666666,1.0,1,0,0.133
+731_milo_F_crop_1.jpg,brand,MILO,MILO,0.0,0.0,0,1,0.115
