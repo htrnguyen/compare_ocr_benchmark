@@ -14,9 +14,7 @@ def get_random_color():
 def draw_boxes(img_pil, bboxes, texts=None, font_size=20):
     draw = ImageDraw.Draw(img_pil)
     try:
-        font = ImageFont.truetype(
-            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", font_size
-        )
+        font = ImageFont.truetype("./font/Roboto-Regular.ttf", font_size)
     except:
         font = ImageFont.load_default()
     colors = [get_random_color() for _ in bboxes]
