@@ -14,7 +14,9 @@ def get_random_color():
 def draw_boxes(img_pil, bboxes, texts=None, font_size=20):
     draw = ImageDraw.Draw(img_pil)
     try:
-        font = ImageFont.truetype("./font/Roboto-Regular.ttf", font_size)
+        font = ImageFont.truetype(
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", font_size
+        )
     except:
         font = ImageFont.load_default()
     colors = [get_random_color() for _ in bboxes]
@@ -24,7 +26,12 @@ def draw_boxes(img_pil, bboxes, texts=None, font_size=20):
         draw.rectangle([x1, y1, x2, y2], outline=color, width=3)
         if texts:
             txt = str(texts[i])
-            tw, th = draw.textsize(txt, font=font)
+            # --- Sửa đoạn lấy kích thước text cho mọi version Pillow ---
+            try:
+                bbox = font.getbbox(txt)
+                tw, th = bbox[2] - bbox[0], bbox[3] - bbox[1]
+            except AttributeError:
+                tw, th = font.getsize(txt)
             draw.rectangle([x1, y1 - th, x1 + tw + 6, y1], fill=color)
             draw.text((x1 + 3, y1 - th), txt, fill=(0, 0, 0), font=font)
     return img_pil
